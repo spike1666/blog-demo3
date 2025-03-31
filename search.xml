@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>hexo开发</title>
+      <link href="/2025/03/31/hexo/"/>
+      <url>/2025/03/31/hexo/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight markdown"><div class="highlight-tools "><div class="macStyle"><div class="mac-close"></div><div class="mac-minimize"></div><div class="mac-maximize"></div></div><i class="fas fa-angle-down expand"></i><div class="code-lang">markdown</div><div class="copy-notice"></div><i class="fas fa-paste copy-button"></i><i class="fa-solid fa-up-right-and-down-left-from-center fullpage-button"></i></div><div class="code-expand-btn expand-done"><i class="fas fa-angle-double-down"></i></div><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title:</span><br><span class="line">date:</span><br><span class="line">updated:</span><br><span class="line">type:</span><br><span class="line">comments:</span><br><span class="line">description:</span><br><span class="line">keywords:</span><br><span class="line">top<span class="emphasis">_img:</span></span><br><span class="line"><span class="emphasis">mathjax:</span></span><br><span class="line"><span class="emphasis">katex:</span></span><br><span class="line"><span class="emphasis">aside:</span></span><br><span class="line"><span class="emphasis">aplayer:</span></span><br><span class="line"><span class="emphasis">highlight_</span>shrink:</span><br><span class="line">random:</span><br><span class="line">limit:</span><br><span class="line">  type:</span><br><span class="line"><span class="section">  value:</span></span><br><span class="line"><span class="section">---</span></span><br></pre></td></tr></tbody></table></figure><p><br><br><br><br><br></p><div class="table-wrap"><table><thead><tr><th>参数</th><th>解释</th></tr></thead><tbody><tr><td>title</td><td>【必需】页面标题</td></tr><tr><td>date</td><td>【必需】页面创建日期</td></tr><tr><td>type</td><td>【必需】标签、分类和友情链接三个页面需要配置</td></tr><tr><td>updated</td><td>【可选】页面更新日期</td></tr><tr><td>description</td><td>【可选】页面描述</td></tr><tr><td>keywords</td><td>【可选】页面关键字</td></tr><tr><td>comments</td><td>【可选】显示页面评论模块 (默认 true)</td></tr><tr><td>top_img</td><td>【可选】页面顶部图片</td></tr><tr><td>mathjax</td><td>【可选】显示 mathjax (当设置 mathjax 的 per_page: false 时，才需要配置，默认 false)</td></tr><tr><td>katex</td><td>【可选】显示 katex (当设置 katex 的 per_page: false 时，才需要配置，默认 false)</td></tr><tr><td>aside</td><td>【可选】显示侧边栏 (默认 true)</td></tr><tr><td>aplayer</td><td>【可选】在需要的页面加载 aplayer 的 js 和 css,请参考文章下面的<code>音乐</code> 配置</td></tr><tr><td>highlight_shrink</td><td>【可选】配置代码框是否展开 (true/false) (默认为设置中 highlight_shrink 的配置)</td></tr><tr><td>random</td><td>【可选】配置友情链接是否随机排序（默认为 false）</td></tr><tr><td>limit</td><td>【可选】配置説説显示数量</td></tr><tr><td>limit.type</td><td>【可选】配置説説显示数量的类型 （date 或者 num）</td></tr><tr><td>limit.value</td><td>【可选】配置説説显示数量的值</td></tr></tbody></table></div><p>作者: Jerry<br>連結: <a href="https://butterfly.js.org/posts/dc584b87/">https://butterfly.js.org/posts/dc584b87/</a><br>來源: Butterfly<br>版權屬於作者所有。商業用途請聯絡作者獲得授權，非商業用途請註明出處。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>蛊真人</title>
+      <link href="/2025/03/31/%E8%9B%8A%E7%9C%9F%E4%BA%BA%E8%AF%97%E8%AF%8D/"/>
+      <url>/2025/03/31/%E8%9B%8A%E7%9C%9F%E4%BA%BA%E8%AF%97%E8%AF%8D/</url>
+      
+        <content type="html"><![CDATA[<html lang="zh-CN"><head>    <meta charset="UTF-8">    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <title>《蛊真人》</title>    <style>        body {            font-family: 'SimSun', serif;            font-size: 20px;            line-height: 1.6;            margin: 20px;        }        h2 {            margin-top: 30px;            margin-bottom: 15px;            border-bottom: 1px solid #ccc;            padding-bottom: 5px;        }        p {            margin: 5px 0;        }    </style></head><body><img src="\img\蛊真人.png">    <h2>《忆秦娥・娄山关》</h2>    <p>雄关漫道真如铁，而今迈步从头越。</p>    <p>雨打风吹几重重，不敌一口浊酒液。</p>    <h2>《临江仙・滚滚长江东逝水》化用</h2>    <p>朝如青丝暮成雪，是非成败转头空。</p>    <h2>《行行重行行》</h2>    <p>仙路阻且长，岁月忽已晚。</p>    <p>情仇已绵长，君思仙尽头，我思君安危。</p>    <p>生死两茫茫，为君梦还乡。</p>    <h2>《满江红・小住京华》</h2>    <p>凡夫俗子岂识我，非到末路不甘休！</p>    <h2>《感遇》</h2>    <p>一生不利己，忧济在元元。</p>    <p>捐躯赴难死，星光照人间。</p>    <p>重活物人非，五洲大不同。</p>    <p>丹心唯一一，三相挽天倾！</p>    <h2>古月方源被正道围攻时吟诗</h2>    <p>朝如青丝暮成雪，是非成败转头空。</p>    <h2>古月方源被白凝冰与铁若男合谋擒获后吟诗</h2>    <p>看万山红遍，层林尽染；漫江碧透，百舸争流。</p>    <p>鹰击长空，鱼翔浅底，万类霜天竞自由。</p>    <p>怅寥廓，问苍茫大地，谁主沉浮？</p>    <h2>古月方源炼出定仙游后吟诗</h2>    <p>千古地仙随风逝，昔日三王归青冢。</p>    <p>阳莽憾陨谁无败？卷土重来再称王。</p>    <p>天河一挂淘龙鱼，逆天独行顾八荒。</p>    <p>今日暂且展翼去，明朝登仙笞凤凰！</p>    <h2>古月方源易容假扮武遗海参加斗诗晚会吟诗</h2>    <p>大海啊，你全是水。</p>    <p>骏马啊，你四条腿。</p>    <p>美人啊，你有大大的眼睛，还有一张嘴！</p>    <h2>古月方源九转成尊后吟诗</h2>    <p>早岁已知世事艰，仍许飞鸿荡云间。</p>    <p>一路寒风身如絮，命海沉浮客独行。</p>    <p>千磨万击心铸铁，殚精竭虑铸一剑。</p>    <p>今朝剑指叠云处，炼蛊炼人还炼天！</p>    <h2>白凝冰吟诗</h2>    <p>万丈红尘缤纷彩，天涯云水路遥长。</p>    <p>此刻风流归天地，不胜水中明月光。</p>    <h2>气绝魔仙吟诗</h2>    <p>登山寻仙处，寸步间高险。</p>    <p>浮尘似光流，暗蛊藏心沟。</p>    <p>金玉如一梦，万年恨寂寥。</p>    <p>五域九天功，尽在一气中。</p>    <h2>武庸吟诗</h2>    <p>永生缥缈非我求，长生无为老愧羞。</p>    <p>界壁消散乱世起，宿命一去竞自由。</p>    <p>鹰击长空鲸霸海，不试怎知龙与蚯。</p>    <p>凡夫俗子岂识我，非到末路不甘休！</p>    <h2>梦求真吟诗</h2>    <p>梦里轻烟天外客，夜夜梦中唤心魂。</p>    <p>纵是百年无缘分，解脱俗尘梦纯真。</p>    <h2>青仇吟诗</h2>    <p>十万悠悠恨不休，粉身碎骨杀敌酋。</p>    <p>神帝城中再睁眼，因果树下有青仇。</p>    <h2>无极魔尊吟诗</h2>    <p>从来是疯魔道痴，俯仰问阴阳乾坤。</p>    <p>百万年筹谋积蓄，待今朝无极永生！</p></body>    <div align=center class="aspect-ratio">    <iframe src="https://www.bilibili.com/video/BV1ub19YXErV/?spm_id_from=333.337.search-card.all.click&vd_source=8fb2b06ae8044f727fa547035de27079"    scrolling="no"    border="0"    frameborder="no"    framespacing="0"    high_quality=1    danmaku=1    allowfullscreen="true">    </iframe>    </div></html>]]></content>
+      
+      
+      <categories>
+          
+          <category> 诗词 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 诗词 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>随笔</title>
       <link href="/2025/03/22/love/"/>
       <url>/2025/03/22/love/</url>
@@ -29,31 +67,6 @@
     
     
     <entry>
-      <title>古诗词</title>
-      <link href="/2025/03/22/%E5%8F%A4%E8%AF%97/"/>
-      <url>/2025/03/22/%E5%8F%A4%E8%AF%97/</url>
-      
-        <content type="html"><![CDATA[<html lang="zh-CN"><head>    <meta charset="UTF-8">    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <title>古诗词集</title>    <style>        body {            font-family: 'SimSun', serif;            line-height: 1.6;            color: #333;            padding: 20px;            font-size: 18px; /* 添加这一行，将字体大小设置为 18px ，你可以根据需要调整数值 */        }        h2 {            margin-top: 30px;            margin-bottom: 15px;            border-bottom: 1px solid #ccc;            padding-bottom: 5px;        }        pre {            white-space: pre-wrap;            margin-bottom: 30px;        }    </style></head><body>    <h2>《国风・周南・关雎》</h2>关关雎鸠，在河之洲。窈窕淑女，君子好逑。<br>参差荇菜，左右流之。窈窕淑女，寤寐求之。<br>求之不得，寤寐思服。悠哉悠哉，辗转反侧。<br>参差荇菜，左右采之。窈窕淑女，琴瑟友之。<br>参差荇菜，左右芼之。窈窕淑女，钟鼓乐之。<br>    <h2>《龟虽寿》</h2>神龟虽寿，犹有竟时。螣蛇乘雾，终为土灰。<br>老骥伏枥，志在千里。烈士暮年，壮心不已。<br>盈缩之期，不但在天；养怡之福，可得永年。<br>幸甚至哉，歌以咏志。    <h2>《饮酒・其五》</h2>结庐在人境，而无车马喧。<br>问君何能尔？心远地自偏。<br>采菊东篱下，悠然见南山。<br>山气日夕佳，飞鸟相与还。<br>此中有真意，欲辨已忘言。<br>    <h2>《春江花月夜》</h2>春江潮水连海平，海上明月共潮生。<br>滟滟随波千万里，何处春江无月明！<br>江流宛转绕芳甸，月照花林皆似霰。<br>空里流霜不觉飞，汀上白沙看不见。<br>江天一色无纤尘，皎皎空中孤月轮。<br>江畔何人初见月？江月何年初照人？<br>人生代代无穷已，江月年年望相似。<br>不知江月待何人，但见长江送流水。<br>白云一片去悠悠，青枫浦上不胜愁。<br>谁家今夜扁舟子？何处相思明月楼？<br>可怜楼上月徘徊，应照离人妆镜台。<br>玉户帘中卷不去，捣衣砧上拂还来。<br>此时相望不相闻，愿逐月华流照君。<br>鸿雁长飞光不度，鱼龙潜跃水成文。<br>昨夜闲潭梦落花，可怜春半不还家。<br>江水流春去欲尽，江潭落月复西斜。<br>斜月沉沉藏海雾，碣石潇湘无限路。<br>不知乘月几人归，落月摇情满江树。<br>    <h2>《送杜少府之任蜀州》</h2>城阙辅三秦，风烟望五津。<br>与君离别意，同是宦游人。<br>海内存知己，天涯若比邻。<br>无为在歧路，儿女共沾巾。<br>    <h2>《黄鹤楼》</h2>昔人已乘黄鹤去，此地空余黄鹤楼。<br>黄鹤一去不复返，白云千载空悠悠。<br>晴川历历汉阳树，芳草萋萋鹦鹉洲。<br>日暮乡关何处是？烟波江上使人愁。<br>    <h2>《将进酒》</h2>君不见黄河之水天上来，奔流到海不复回。<br>君不见高堂明镜悲白发，朝如青丝暮成雪。<br>人生得意须尽欢，莫使金樽空对月。<br>天生我材必有用，千金散尽还复来。<br>烹羊宰牛且为乐，会须一饮三百杯。<br>岑夫子，丹丘生，将进酒，杯莫停。<br>与君歌一曲，请君为我倾耳听。<br>钟鼓馔玉不足贵，但愿长醉不复醒。<br>古来圣贤皆寂寞，惟有饮者留其名。<br>陈王昔时宴平乐，斗酒十千恣欢谑。<br>主人何为言少钱，径须沽取对君酌。<br>五花马，千金裘，呼儿将出换美酒，与尔同销万古愁。<br>    <h2>《春望》</h2>国破山河在，城春草木深。<br>感时花溅泪，恨别鸟惊心。<br>烽火连三月，家书抵万金。<br>白头搔更短，浑欲不胜簪。<br>    <h2>《出塞・其一》</h2>秦时明月汉时关，万里长征人未还。<br>但使龙城飞将在，不教胡马度阴山。<br>    <h2>《江雪》</h2>千山鸟飞绝，万径人踪灭。<br>孤舟蓑笠翁，独钓寒江雪。<br></body></html>]]></content>
-      
-      
-      <categories>
-          
-          <category> 诗词 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 诗词 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>一日之遇，景食之乐</title>
       <link href="/2025/03/22/%E4%B8%9C%E5%8C%97%E8%8F%9C/"/>
       <url>/2025/03/22/%E4%B8%9C%E5%8C%97%E8%8F%9C/</url>
@@ -71,6 +84,31 @@
         <tags>
             
             <tag> 日记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>古诗词</title>
+      <link href="/2025/03/22/%E5%8F%A4%E8%AF%97/"/>
+      <url>/2025/03/22/%E5%8F%A4%E8%AF%97/</url>
+      
+        <content type="html"><![CDATA[<html lang="zh-CN"><head>    <meta charset="UTF-8">    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <title>古诗词集</title>    <style>        body {            font-family: 'SimSun', serif;            line-height: 1.6;            padding: 20px;            font-size: 18px; /* 添加这一行，将字体大小设置为 18px ，你可以根据需要调整数值 */        }        h2 {            margin-top: 30px;            margin-bottom: 15px;            border-bottom: 1px solid #ccc;            padding-bottom: 5px;        }    </style></head><body>    <h2>《国风・周南・关雎》</h2>关关雎鸠，在河之洲。窈窕淑女，君子好逑。<br>参差荇菜，左右流之。窈窕淑女，寤寐求之。<br>求之不得，寤寐思服。悠哉悠哉，辗转反侧。<br>参差荇菜，左右采之。窈窕淑女，琴瑟友之。<br>参差荇菜，左右芼之。窈窕淑女，钟鼓乐之。<br>    <h2>《龟虽寿》</h2>神龟虽寿，犹有竟时。螣蛇乘雾，终为土灰。<br>老骥伏枥，志在千里。烈士暮年，壮心不已。<br>盈缩之期，不但在天；养怡之福，可得永年。<br>幸甚至哉，歌以咏志。    <h2>《饮酒・其五》</h2>结庐在人境，而无车马喧。<br>问君何能尔？心远地自偏。<br>采菊东篱下，悠然见南山。<br>山气日夕佳，飞鸟相与还。<br>此中有真意，欲辨已忘言。<br>    <h2>《春江花月夜》</h2>春江潮水连海平，海上明月共潮生。<br>滟滟随波千万里，何处春江无月明！<br>江流宛转绕芳甸，月照花林皆似霰。<br>空里流霜不觉飞，汀上白沙看不见。<br>江天一色无纤尘，皎皎空中孤月轮。<br>江畔何人初见月？江月何年初照人？<br>人生代代无穷已，江月年年望相似。<br>不知江月待何人，但见长江送流水。<br>白云一片去悠悠，青枫浦上不胜愁。<br>谁家今夜扁舟子？何处相思明月楼？<br>可怜楼上月徘徊，应照离人妆镜台。<br>玉户帘中卷不去，捣衣砧上拂还来。<br>此时相望不相闻，愿逐月华流照君。<br>鸿雁长飞光不度，鱼龙潜跃水成文。<br>昨夜闲潭梦落花，可怜春半不还家。<br>江水流春去欲尽，江潭落月复西斜。<br>斜月沉沉藏海雾，碣石潇湘无限路。<br>不知乘月几人归，落月摇情满江树。<br>    <h2>《送杜少府之任蜀州》</h2>城阙辅三秦，风烟望五津。<br>与君离别意，同是宦游人。<br>海内存知己，天涯若比邻。<br>无为在歧路，儿女共沾巾。<br>    <h2>《黄鹤楼》</h2>昔人已乘黄鹤去，此地空余黄鹤楼。<br>黄鹤一去不复返，白云千载空悠悠。<br>晴川历历汉阳树，芳草萋萋鹦鹉洲。<br>日暮乡关何处是？烟波江上使人愁。<br>    <h2>《将进酒》</h2>君不见黄河之水天上来，奔流到海不复回。<br>君不见高堂明镜悲白发，朝如青丝暮成雪。<br>人生得意须尽欢，莫使金樽空对月。<br>天生我材必有用，千金散尽还复来。<br>烹羊宰牛且为乐，会须一饮三百杯。<br>岑夫子，丹丘生，将进酒，杯莫停。<br>与君歌一曲，请君为我倾耳听。<br>钟鼓馔玉不足贵，但愿长醉不复醒。<br>古来圣贤皆寂寞，惟有饮者留其名。<br>陈王昔时宴平乐，斗酒十千恣欢谑。<br>主人何为言少钱，径须沽取对君酌。<br>五花马，千金裘，呼儿将出换美酒，与尔同销万古愁。<br>    <h2>《春望》</h2>国破山河在，城春草木深。<br>感时花溅泪，恨别鸟惊心。<br>烽火连三月，家书抵万金。<br>白头搔更短，浑欲不胜簪。<br>    <h2>《出塞・其一》</h2>秦时明月汉时关，万里长征人未还。<br>但使龙城飞将在，不教胡马度阴山。<br>    <h2>《江雪》</h2>千山鸟飞绝，万径人踪灭。<br>孤舟蓑笠翁，独钓寒江雪。<br></body></html>]]></content>
+      
+      
+      <categories>
+          
+          <category> 诗词 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 诗词 </tag>
             
         </tags>
       
@@ -149,25 +187,6 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/2016/03/30/%E4%B8%80%E5%A4%A9/"/>
-      <url>/2016/03/30/%E4%B8%80%E5%A4%A9/</url>
-      
-        <content type="html"><![CDATA[<p>清晨，闹钟尖锐的铃声如同一把利刃，无情地划破了李明的美梦。他在睡梦中皱了皱眉头，下意识地伸手在床头柜上摸索，试图将那恼人的声音关闭。好不容易按停闹钟，李明睡眼惺忪地坐起身，脑袋还昏昏沉沉的，眼神中满是对被窝的留恋。可一想到今天还有堆积如山的工作等着他，他只能无奈地叹了口气，拖着沉重的步伐走向卫生间。​<br>简单洗漱后，李明随便套上一件衬衫，拿起公文包就冲出了家门。此时，楼道里弥漫着早餐的香气，他的肚子也适时地咕噜叫了几声，但他实在没有时间吃早餐了。跑到公交站，那里早已挤满了等车的人，大家神色匆匆，表情麻木，仿佛都被生活这根无形的鞭子驱赶着。​<br>公交车终于来了，车门一开，人群如潮水般涌了上去。李明被裹挟在其中，费了好大劲才挤上车。车厢里拥挤不堪，人们前胸贴后背，空气浑浊得让人有些窒息。李明努力站稳脚跟，却不小心踩到了旁边一位女士的脚。“对不起，真的很抱歉！” 他急忙转身，满脸歉意地说道。那位女士皱着眉头，白了他一眼，没有说话。李明尴尬地笑了笑，心中暗自懊恼今天怎么这么倒霉。​<br>到了公司，李明刚坐下，还没来得及喝口水，领导就走了过来，将一叠文件重重地放在他桌上，说道：“这些文件很紧急，今天下班前必须处理好。” 李明看着那堆厚厚的文件，心里直发怵，但又不敢说什么，只能硬着头皮应下。整个上午，他都埋首于文件之中，眼睛紧盯着电脑屏幕，手指在键盘上不停地敲击，连水都没顾得上喝一口。​<br>好不容易忙完手头的工作，到了午饭时间。李明饥肠辘辘地来到食堂，满心期待着能吃上自己最爱的红烧肉。可当他走到打饭窗口时，却被告知红烧肉已经卖完了。他的心情瞬间跌落谷底，只能随便打了些其他的菜，找了个角落坐下。看着餐盘里那些并不合心意的饭菜，他突然觉得生活似乎总是充满了这样小小的失望。​<br>下午，公司召开部门会议。李明作为项目组的一员，需要汇报工作进展。他站在讲台上，紧张得手心直冒汗，声音也不自觉地有些颤抖。汇报过程中，他因为紧张，思路突然卡顿了一下，台下传来了几声偷笑。李明的脸瞬间涨得通红，他努力调整呼吸，让自己镇定下来，继续完成了汇报。会议结束后，他回到座位上，心里还在为刚才的表现懊恼不已。​<br>终于熬到了下班时间，李明拖着疲惫的身体走出公司。夕阳的余晖洒在他身上，给这个疲惫的身影镀上了一层淡淡的金色。走在回家的路上，李明突然听到一阵微弱的狗叫声。他顺着声音望去，发现一只小狗正蹲在路边，眼神中满是无助。李明走上前去，蹲下身子，轻轻抚摸着小狗的头。小狗似乎感受到了他的善意，不再叫唤，而是亲昵地蹭着他的手。李明心想，这只小狗一定是迷路了。于是，他决定帮小狗找到主人。​<br>李明带着小狗在附近询问了很多人，终于在一个小区门口，一位焦急的老人认出了这只小狗。老人对李明千恩万谢，眼中满是感激。看着老人和小狗团聚的画面，李明的心中涌起一股暖流，一天的疲惫和烦恼似乎都在这一刻烟消云散。​<br>这一天，李明经历了窘迫、失落，也收获了意外的温暖。它看似平凡，却又因为这些小小的插曲而变得不平凡，让李明深深体会到，生活的美好往往就隐藏在这些平凡的日常之中。</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> test </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
       <link href="/2016/03/30/%E5%8A%A0%E5%AF%86test/"/>
       <url>/2016/03/30/%E5%8A%A0%E5%AF%86test/</url>
       
@@ -200,17 +219,6 @@
     
     
     <entry>
-      <title>charts</title>
-      <link href="/charts/index.html"/>
-      <url>/charts/index.html</url>
-      
-        <content type="html"><![CDATA[<!-- 文章发布时间统计图 --><div id="posts-chart" data-start="2021-01" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章标签统计图 --><div id="tags-chart" data-length="10" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章分类统计图 --><div id="categories-chart" data-parent="true" style="border-radius: 8px; height: 300px; padding: 10px;"></div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -222,11 +230,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/coin.css"/>
-      <url>/css/coin.css</url>
+      <title>charts</title>
+      <link href="/charts/index.html"/>
+      <url>/charts/index.html</url>
       
-        <content type="html"><![CDATA[.tip-button {    border: 0;    border-radius: 0.25rem;    cursor: pointer;    font-size: 20px;    font-weight: 600;    height: 2.6rem;    margin-bottom: -4rem;    outline: 0;    position: relative;    top: 0;    transform-origin: 0% 100%;    transition: transform 50ms ease-in-out;    width: auto;    -webkit-tap-highlight-color: transparent;  }  .tip-button:active {    transform: rotate(4deg);  }  .tip-button.clicked {    animation: 150ms ease-in-out 1 shake;    pointer-events: none;  }  .tip-button.clicked .tip-button__text {    opacity: 0;    transition: opacity 100ms linear 200ms;  }  .tip-button.clicked::before {    height: 0.5rem;    width: 60%;    background: var(button-hover-color);  }  .tip-button.clicked .coin {    transition: margin-bottom 1s linear 200ms;    margin-bottom: 0;  }  .tip-button.shrink-landing::before {    transition: width 200ms ease-in;    width: 0;  }  .tip-button.coin-landed::after {    opacity: 1;    transform: scale(1);    transform-origin: 50% 100%;  }  .tip-button.coin-landed .coin-wrapper {    background: radial-gradient(circle at 35% 97%, rgba(3, 16, 50, 0.4) 0.04rem, transparent 0.04rem), radial-gradient(circle at 45% 92%, rgba(3, 16, 50, 0.4) 0.04rem, transparent 0.02rem), radial-gradient(circle at 55% 98%, rgba(3, 16, 50, 0.4) 0.04rem, transparent 0.04rem), radial-gradient(circle at 65% 96%, rgba(3, 16, 50, 0.4) 0.06rem, transparent 0.06rem);    background-position: center bottom;    background-size: 100%;    bottom: -1rem;    opacity: 0;    transform: scale(2) translateY(-10px);  }  .tip-button__text {    color: #fff;    margin-right: 1.8rem;    opacity: 1;    position: relative;    transition: opacity 100ms linear 500ms;    z-index: 3;  }  .tip-button::before {    border-radius: 0.25rem;    bottom: 0;    content: '';    display: block;    height: 100%;    left: 50%;    position: absolute;    transform: translateX(-50%);    transition: height 250ms ease-in-out 400ms, width 250ms ease-in-out 300ms;    width: 100%;    z-index: 2;  }  .tip-button::after {    bottom: -1rem;    color: white;    content: 'ヾ(≧O≦)〃嗷~'; /*点击后显示的内容*/    height: 110%;    left: 0;    opacity: 0;    position: absolute;    pointer-events: none;    text-align: center;    transform: scale(0);    transform-origin: 50% 20%;    transition: transform 200ms cubic-bezier(0, 0, 0.35, 1.43);    width: 100%;    z-index: 1;  }    .coin-wrapper {    background: none;    bottom: 0;    height: 18rem;    left: 0;    opacity: 1;    overflow: hidden;    pointer-events: none;    position: absolute;    transform: none;    transform-origin: 50% 100%;    transition: opacity 200ms linear 100ms, transform 300ms ease-out;    width: 100%;  }    .coin {    --front-y-multiplier: 0;    --back-y-multiplier: 0;    --coin-y-multiplier: 0;    --coin-x-multiplier: 0;    --coin-scale-multiplier: 0;    --coin-rotation-multiplier: 0;    --shine-opacity-multiplier: 0.4;    --shine-bg-multiplier: 50%;    bottom: calc(var(--coin-y-multiplier) * 1rem - 3.5rem);    height: 3.5rem;    margin-bottom: 3.05rem;    position: absolute;    right: calc(var(--coin-x-multiplier) * 34% + 16%);    transform: translateX(50%) scale(calc(0.4 + var(--coin-scale-multiplier))) rotate(calc(var(--coin-rotation-multiplier) * -1deg));    transition: opacity 100ms linear 200ms;    width: 3.5rem;    z-index: 3;  }  .coin__front, .coin__middle, .coin__back, .coin::before, .coin__front::after, .coin__back::after {    border-radius: 50%;    box-sizing: border-box;    height: 100%;    left: 0;    position: absolute;    width: 100%;    z-index: 3;  }  .coin__front {    background: radial-gradient(circle at 50% 50%, transparent 50%, rgba(115, 124, 153, 0.4) 54%, #c2cadf 54%), linear-gradient(210deg, #8590b3 32%, transparent 32%), linear-gradient(150deg, #8590b3 32%, transparent 32%), linear-gradient(to right, #8590b3 22%, transparent 22%, transparent 78%, #8590b3 78%), linear-gradient(to bottom, #fcfaf9 44%, transparent 44%, transparent 65%, #fcfaf9 65%, #fcfaf9 71%, #8590b3 71%), linear-gradient(to right, transparent 28%, #fcfaf9 28%, #fcfaf9 34%, #8590b3 34%, #8590b3 40%, #fcfaf9 40%, #fcfaf9 47%, #8590b3 47%, #8590b3 53%, #fcfaf9 53%, #fcfaf9 60%, #8590b3 60%, #8590b3 66%, #fcfaf9 66%, #fcfaf9 72%, transparent 72%);    background-color: #8590b3;    background-size: 100% 100%;    transform: translateY(calc(var(--front-y-multiplier) * 0.3181818182rem / 2)) scaleY(var(--front-scale-multiplier));  }  .coin__front::after {    background: rgba(0, 0, 0, 0.2);    content: '';    opacity: var(--front-y-multiplier);  }  .coin__middle {    background: #737c99;    transform: translateY(calc(var(--middle-y-multiplier) * 0.3181818182rem / 2)) scaleY(var(--middle-scale-multiplier));  }  .coin__back {    background: radial-gradient(circle at 50% 50%, transparent 50%, rgba(115, 124, 153, 0.4) 54%, #c2cadf 54%), radial-gradient(circle at 50% 40%, #fcfaf9 23%, transparent 23%), radial-gradient(circle at 50% 100%, #fcfaf9 35%, transparent 35%);    background-color: #8590b3;    background-size: 100% 100%;    transform: translateY(calc(var(--back-y-multiplier) * 0.3181818182rem / 2)) scaleY(var(--back-scale-multiplier));  }  .coin__back::after {    background: rgba(0, 0, 0, 0.2);    content: '';    opacity: var(--back-y-multiplier);  }  .coin::before {    background: radial-gradient(circle at 25% 65%, transparent 50%, rgba(255, 255, 255, 0.9) 90%), linear-gradient(55deg, transparent calc(var(--shine-bg-multiplier) + 0%), #e9f4ff calc(var(--shine-bg-multiplier) + 0%), transparent calc(var(--shine-bg-multiplier) + 50%));    content: '';    opacity: var(--shine-opacity-multiplier);    transform: translateY(calc(var(--middle-y-multiplier) * 0.3181818182rem / -2)) scaleY(var(--middle-scale-multiplier)) rotate(calc(var(--coin-rotation-multiplier) * 1deg));    z-index: 10;  }  .coin::after {    background: #737c99;    content: '';    height: 0.3181818182rem;    left: 0;    position: absolute;    top: 50%;    transform: translateY(-50%);    width: 100%;    z-index: 2;  }    @keyframes shake {    0% {      transform: rotate(4deg);    }    66% {      transform: rotate(-4deg);    }    100% {      transform: rotate();    }  }]]></content>
+        <content type="html"><![CDATA[<!-- 文章发布时间统计图 --><div id="posts-chart" data-start="2021-01" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章标签统计图 --><div id="tags-chart" data-length="10" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章分类统计图 --><div id="categories-chart" data-parent="true" style="border-radius: 8px; height: 300px; padding: 10px;"></div>]]></content>
       
     </entry>
     
@@ -249,6 +257,17 @@
       <url>/css/progress_bar.css</url>
       
         <content type="html"><![CDATA[.pace {    -webkit-pointer-events: none;    pointer-events: none;    -webkit-user-select: none;    -moz-user-select: none;    user-select: none;    z-index: 2000;    position: fixed;    margin: auto;    top: 10px;    left: 0;    right: 0;    height: 8px;    border-radius: 8px;    width: 4rem;    background: #eaecf2;    border: 1px #e3e8f7;    overflow: hidden;  }    .pace-inactive .pace-progress {    opacity: 0;    transition: 0.3s ease-in;  }    .pace .pace-progress {    -webkit-box-sizing: border-box;    -moz-box-sizing: border-box;    -ms-box-sizing: border-box;    -o-box-sizing: border-box;    box-sizing: border-box;    -webkit-transform: translate3d(0, 0, 0);    -moz-transform: translate3d(0, 0, 0);    -ms-transform: translate3d(0, 0, 0);    -o-transform: translate3d(0, 0, 0);    transform: translate3d(0, 0, 0);    max-width: 200px;    position: absolute;    z-index: 2000;    display: block;    top: 0;    right: 100%;    height: 100%;    width: 100%;    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);    animation: gradient 1.5s ease infinite;    background-size: 200%;  }    .pace.pace-inactive {    opacity: 0;    transition: 0.3s;    top: -8px;  }  @keyframes gradient {    0% {      background-position: 0% 50%;    }    50% {      background-position: 100% 50%;    }    100% {      background-position: 0% 50%;    }  }]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/coin.css"/>
+      <url>/css/coin.css</url>
+      
+        <content type="html"><![CDATA[.tip-button {    border: 0;    border-radius: 0.25rem;    cursor: pointer;    font-size: 20px;    font-weight: 600;    height: 2.6rem;    margin-bottom: -4rem;    outline: 0;    position: relative;    top: 0;    transform-origin: 0% 100%;    transition: transform 50ms ease-in-out;    width: auto;    -webkit-tap-highlight-color: transparent;  }  .tip-button:active {    transform: rotate(4deg);  }  .tip-button.clicked {    animation: 150ms ease-in-out 1 shake;    pointer-events: none;  }  .tip-button.clicked .tip-button__text {    opacity: 0;    transition: opacity 100ms linear 200ms;  }  .tip-button.clicked::before {    height: 0.5rem;    width: 60%;    background: var(button-hover-color);  }  .tip-button.clicked .coin {    transition: margin-bottom 1s linear 200ms;    margin-bottom: 0;  }  .tip-button.shrink-landing::before {    transition: width 200ms ease-in;    width: 0;  }  .tip-button.coin-landed::after {    opacity: 1;    transform: scale(1);    transform-origin: 50% 100%;  }  .tip-button.coin-landed .coin-wrapper {    background: radial-gradient(circle at 35% 97%, rgba(3, 16, 50, 0.4) 0.04rem, transparent 0.04rem), radial-gradient(circle at 45% 92%, rgba(3, 16, 50, 0.4) 0.04rem, transparent 0.02rem), radial-gradient(circle at 55% 98%, rgba(3, 16, 50, 0.4) 0.04rem, transparent 0.04rem), radial-gradient(circle at 65% 96%, rgba(3, 16, 50, 0.4) 0.06rem, transparent 0.06rem);    background-position: center bottom;    background-size: 100%;    bottom: -1rem;    opacity: 0;    transform: scale(2) translateY(-10px);  }  .tip-button__text {    color: #fff;    margin-right: 1.8rem;    opacity: 1;    position: relative;    transition: opacity 100ms linear 500ms;    z-index: 3;  }  .tip-button::before {    border-radius: 0.25rem;    bottom: 0;    content: '';    display: block;    height: 100%;    left: 50%;    position: absolute;    transform: translateX(-50%);    transition: height 250ms ease-in-out 400ms, width 250ms ease-in-out 300ms;    width: 100%;    z-index: 2;  }  .tip-button::after {    bottom: -1rem;    color: white;    content: 'ヾ(≧O≦)〃嗷~'; /*点击后显示的内容*/    height: 110%;    left: 0;    opacity: 0;    position: absolute;    pointer-events: none;    text-align: center;    transform: scale(0);    transform-origin: 50% 20%;    transition: transform 200ms cubic-bezier(0, 0, 0.35, 1.43);    width: 100%;    z-index: 1;  }    .coin-wrapper {    background: none;    bottom: 0;    height: 18rem;    left: 0;    opacity: 1;    overflow: hidden;    pointer-events: none;    position: absolute;    transform: none;    transform-origin: 50% 100%;    transition: opacity 200ms linear 100ms, transform 300ms ease-out;    width: 100%;  }    .coin {    --front-y-multiplier: 0;    --back-y-multiplier: 0;    --coin-y-multiplier: 0;    --coin-x-multiplier: 0;    --coin-scale-multiplier: 0;    --coin-rotation-multiplier: 0;    --shine-opacity-multiplier: 0.4;    --shine-bg-multiplier: 50%;    bottom: calc(var(--coin-y-multiplier) * 1rem - 3.5rem);    height: 3.5rem;    margin-bottom: 3.05rem;    position: absolute;    right: calc(var(--coin-x-multiplier) * 34% + 16%);    transform: translateX(50%) scale(calc(0.4 + var(--coin-scale-multiplier))) rotate(calc(var(--coin-rotation-multiplier) * -1deg));    transition: opacity 100ms linear 200ms;    width: 3.5rem;    z-index: 3;  }  .coin__front, .coin__middle, .coin__back, .coin::before, .coin__front::after, .coin__back::after {    border-radius: 50%;    box-sizing: border-box;    height: 100%;    left: 0;    position: absolute;    width: 100%;    z-index: 3;  }  .coin__front {    background: radial-gradient(circle at 50% 50%, transparent 50%, rgba(115, 124, 153, 0.4) 54%, #c2cadf 54%), linear-gradient(210deg, #8590b3 32%, transparent 32%), linear-gradient(150deg, #8590b3 32%, transparent 32%), linear-gradient(to right, #8590b3 22%, transparent 22%, transparent 78%, #8590b3 78%), linear-gradient(to bottom, #fcfaf9 44%, transparent 44%, transparent 65%, #fcfaf9 65%, #fcfaf9 71%, #8590b3 71%), linear-gradient(to right, transparent 28%, #fcfaf9 28%, #fcfaf9 34%, #8590b3 34%, #8590b3 40%, #fcfaf9 40%, #fcfaf9 47%, #8590b3 47%, #8590b3 53%, #fcfaf9 53%, #fcfaf9 60%, #8590b3 60%, #8590b3 66%, #fcfaf9 66%, #fcfaf9 72%, transparent 72%);    background-color: #8590b3;    background-size: 100% 100%;    transform: translateY(calc(var(--front-y-multiplier) * 0.3181818182rem / 2)) scaleY(var(--front-scale-multiplier));  }  .coin__front::after {    background: rgba(0, 0, 0, 0.2);    content: '';    opacity: var(--front-y-multiplier);  }  .coin__middle {    background: #737c99;    transform: translateY(calc(var(--middle-y-multiplier) * 0.3181818182rem / 2)) scaleY(var(--middle-scale-multiplier));  }  .coin__back {    background: radial-gradient(circle at 50% 50%, transparent 50%, rgba(115, 124, 153, 0.4) 54%, #c2cadf 54%), radial-gradient(circle at 50% 40%, #fcfaf9 23%, transparent 23%), radial-gradient(circle at 50% 100%, #fcfaf9 35%, transparent 35%);    background-color: #8590b3;    background-size: 100% 100%;    transform: translateY(calc(var(--back-y-multiplier) * 0.3181818182rem / 2)) scaleY(var(--back-scale-multiplier));  }  .coin__back::after {    background: rgba(0, 0, 0, 0.2);    content: '';    opacity: var(--back-y-multiplier);  }  .coin::before {    background: radial-gradient(circle at 25% 65%, transparent 50%, rgba(255, 255, 255, 0.9) 90%), linear-gradient(55deg, transparent calc(var(--shine-bg-multiplier) + 0%), #e9f4ff calc(var(--shine-bg-multiplier) + 0%), transparent calc(var(--shine-bg-multiplier) + 50%));    content: '';    opacity: var(--shine-opacity-multiplier);    transform: translateY(calc(var(--middle-y-multiplier) * 0.3181818182rem / -2)) scaleY(var(--middle-scale-multiplier)) rotate(calc(var(--coin-rotation-multiplier) * 1deg));    z-index: 10;  }  .coin::after {    background: #737c99;    content: '';    height: 0.3181818182rem;    left: 0;    position: absolute;    top: 50%;    transform: translateY(-50%);    width: 100%;    z-index: 2;  }    @keyframes shake {    0% {      transform: rotate(4deg);    }    66% {      transform: rotate(-4deg);    }    100% {      transform: rotate();    }  }]]></content>
       
     </entry>
     
@@ -322,10 +341,10 @@
     
     <entry>
       <title></title>
-      <link href="/js/iconfont.js"/>
-      <url>/js/iconfont.js</url>
+      <link href="/js/randdom.js"/>
+      <url>/js/randdom.js</url>
       
-        <content type="html"><![CDATA["use strict";function iconFont(args) {  args = args.join(" ").split(",");  let p0 = args[0];  let p1 = args[1] ? args[1] : 1;  return `<svg class="icon" style="width:${p1}em; height:${p1}em" aria-hidden="true"><use xlink:href="#${p0}"></use></svg>`;}hexo.extend.tag.register("icon", iconFont);]]></content>
+        <content type="html"><![CDATA[// 发现有时会和当前页面重复，加一个判断function randomPost() {    fetch('/baidusitemap.xml').then(res => res.text()).then(str => (new window.DOMParser()).parseFromString(str, "text/xml")).then(data => {        let ls = data.querySelectorAll('url loc');        while (true) {            let url = ls[Math.floor(Math.random() * ls.length)].innerHTML;            if (location.href == url) continue;            location.href = url;            return;        }    })}// 阅读文章时看了一遍写的代码，发现加个数组和一个遍历完全没必要，改成下面这个即可。// function randomPost() {//     fetch('/baidusitemap.xml').then(res => res.text()).then(str => (new window.DOMParser()).parseFromString(str, "text/xml")).then(data => {//         let ls = data.querySelectorAll('url loc');//         location.href = ls[Math.floor(Math.random() * ls.length)].innerHTML//     })// }// 旧代码// function randomPost() {    // fetch('/baidusitemap.xml').then(res => res.text()).then(str => (new window.DOMParser()).parseFromString(str, "text/xml")).then(data => {    //     let ls = data.querySelectorAll('url loc');    //     let list = [];    //     ls.forEach(i => list.push(i.innerHTML))    //     location.href = list[Math.floor(Math.random() * ls.length)]    // })// }]]></content>
       
     </entry>
     
@@ -333,10 +352,10 @@
     
     <entry>
       <title></title>
-      <link href="/js/randdom.js"/>
-      <url>/js/randdom.js</url>
+      <link href="/js/iconfont.js"/>
+      <url>/js/iconfont.js</url>
       
-        <content type="html"><![CDATA[// 发现有时会和当前页面重复，加一个判断function randomPost() {    fetch('/baidusitemap.xml').then(res => res.text()).then(str => (new window.DOMParser()).parseFromString(str, "text/xml")).then(data => {        let ls = data.querySelectorAll('url loc');        while (true) {            let url = ls[Math.floor(Math.random() * ls.length)].innerHTML;            if (location.href == url) continue;            location.href = url;            return;        }    })}// 阅读文章时看了一遍写的代码，发现加个数组和一个遍历完全没必要，改成下面这个即可。// function randomPost() {//     fetch('/baidusitemap.xml').then(res => res.text()).then(str => (new window.DOMParser()).parseFromString(str, "text/xml")).then(data => {//         let ls = data.querySelectorAll('url loc');//         location.href = ls[Math.floor(Math.random() * ls.length)].innerHTML//     })// }// 旧代码// function randomPost() {    // fetch('/baidusitemap.xml').then(res => res.text()).then(str => (new window.DOMParser()).parseFromString(str, "text/xml")).then(data => {    //     let ls = data.querySelectorAll('url loc');    //     let list = [];    //     ls.forEach(i => list.push(i.innerHTML))    //     location.href = list[Math.floor(Math.random() * ls.length)]    // })// }]]></content>
+        <content type="html"><![CDATA["use strict";function iconFont(args) {  args = args.join(" ").split(",");  let p0 = args[0];  let p1 = args[1] ? args[1] : 1;  return `<svg class="icon" style="width:${p1}em; height:${p1}em" aria-hidden="true"><use xlink:href="#${p0}"></use></svg>`;}hexo.extend.tag.register("icon", iconFont);]]></content>
       
     </entry>
     
@@ -355,32 +374,10 @@
     
     <entry>
       <title></title>
-      <link href="/js/runtime.min.js"/>
-      <url>/js/runtime.min.js</url>
-      
-        <content type="html"><![CDATA[var now = new Date();function createtime() {  var t = new Date("04/01/2021 00:00:00");  now.setTime(now.getTime() + 250);  var e = (now - t) / 1e3 / 60 / 60 / 24,    a = Math.floor(e),    n = (now - t) / 1e3 / 60 / 60 - 24 * a,    r = Math.floor(n);  1 == String(r).length && (r = "0" + r);  var s = (now - t) / 1e3 / 60 - 1440 * a - 60 * r,    i = Math.floor(s);  1 == String(i).length && (i = "0" + i);  var o = (now - t) / 1e3 - 86400 * a - 3600 * r - 60 * i,    l = Math.round(o);  1 == String(l).length && (l = "0" + l);  let g = "";  (g =    r < 18 && r >= 9      ? `<img class='boardsign' src='https://npm.elemecdn.com/anzhiyu-blog@2.0.3/img/badge/安知鱼-上班摸鱼中.svg' title='距离月入25k也就还差一个大佬带我~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`      : `<img class='boardsign' src='https://npm.elemecdn.com/anzhiyu-blog@2.0.3/img/badge/安知鱼-下班啦.svg' title='下班了就该开开心心的玩耍，嘿嘿~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`),    document.getElementById("workboard") &&      (document.getElementById("workboard").innerHTML = g);}setInterval(() => {  createtime();}, 250);]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/js/runtime.min.css"/>
       <url>/js/runtime.min.css</url>
       
         <content type="html"><![CDATA[div#runtime {    width: 180px;    margin: auto;    color: #fff;    padding-inline: 5px;    border-radius: 10px;    background-color: rgba(0, 0, 0, .7)}#workboard {    font-size: 12px}[data-theme=dark] div#runtime {    color: #28b4c8;    box-shadow: 0 0 5px rgba(28, 69, 218, .71);    animation: flashlight 1s linear infinite alternate}#ghbdages .github-badge img {    height: 20px}@-moz-keyframes flashlight {    from {        box-shadow: 0 0 5px #1478d2    }    to {        box-shadow: 0 0 2px #1478d2    }}@-webkit-keyframes flashlight {    from {        box-shadow: 0 0 5px #1478d2    }    to {        box-shadow: 0 0 2px #1478d2    }}@-o-keyframes flashlight {    from {        box-shadow: 0 0 5px #1478d2    }    to {        box-shadow: 0 0 2px #1478d2    }}@keyframes flashlight {    from {        box-shadow: 0 0 5px #1478d2    }    to {        box-shadow: 0 0 2px #1478d2    }}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/snow.js"/>
-      <url>/js/snow.js</url>
-      
-        <content type="html"><![CDATA[if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {    // 移动端不显示} else {    // document.write('<canvas id="snow" style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:-2;pointer-events:none"></canvas>');    window && (() => {        let e = {            flakeCount: 50, // 雪花数目            minDist: 150,   // 最小距离            color: "255, 255, 255", // 雪花颜色            size: 1.5,  // 雪花大小            speed: .5,  // 雪花速度            opacity: .7,    // 雪花透明度            stepsize: .5    // 步距        };        const t = window.requestAnimationFrame || window.mozRequestAnimationFrame || window.webkitRequestAnimationFrame || window.msRequestAnimationFrame || function (e) {            window.setTimeout(e, 1e3 / 60)        }            ;        window.requestAnimationFrame = t;        const i = document.getElementById("snow"),            n = i.getContext("2d"),            o = e.flakeCount;        let a = -100,            d = -100,            s = [];        i.width = window.innerWidth,            i.height = window.innerHeight;        const h = () => {            n.clearRect(0, 0, i.width, i.height);            const r = e.minDist;            for (let t = 0; t < o; t++) {                let o = s[t];                const h = a,                    w = d,                    m = o.x,                    c = o.y,                    p = Math.sqrt((h - m) * (h - m) + (w - c) * (w - c));                if (p < r) {                    const e = (h - m) / p,                        t = (w - c) / p,                        i = r / (p * p) / 2;                    o.velX -= i * e,                        o.velY -= i * t                } else                    o.velX *= .98,                        o.velY < o.speed && o.speed - o.velY > .01 && (o.velY += .01 * (o.speed - o.velY)),                        o.velX += Math.cos(o.step += .05) * o.stepSize;                n.fillStyle = "rgba(" + e.color + ", " + o.opacity + ")",                    o.y += o.velY,                    o.x += o.velX,                    (o.y >= i.height || o.y <= 0) && l(o),                    (o.x >= i.width || o.x <= 0) && l(o),                    n.beginPath(),                    n.arc(o.x, o.y, o.size, 0, 2 * Math.PI),                    n.fill()            }            t(h)        }            , l = e => {                e.x = Math.floor(Math.random() * i.width),                    e.y = 0,                    e.size = 3 * Math.random() + 2,                    e.speed = 1 * Math.random() + .5,                    e.velY = e.speed,                    e.velX = 0,                    e.opacity = .5 * Math.random() + .3            }            ;        document.addEventListener("mousemove", (e => {            a = e.clientX,                d = e.clientY        }        )),            window.addEventListener("resize", (() => {                i.width = window.innerWidth,                    i.height = window.innerHeight            }            )),            (() => {                for (let t = 0; t < o; t++) {                    const t = Math.floor(Math.random() * i.width)                        , n = Math.floor(Math.random() * i.height)                        , o = 3 * Math.random() + e.size                        , a = 1 * Math.random() + e.speed                        , d = .5 * Math.random() + e.opacity;                    s.push({                        speed: a,                        velX: 0,                        velY: a,                        x: t,                        y: n,                        size: o,                        stepSize: Math.random() / 30 * e.stepsize,                        step: 0,                        angle: 180,                        opacity: d                    })                }                h()            }            )()    }    )();}]]></content>
       
     </entry>
     
@@ -399,21 +396,21 @@
     
     <entry>
       <title></title>
-      <link href="/js/title.js"/>
-      <url>/js/title.js</url>
+      <link href="/js/runtime.min.js"/>
+      <url>/js/runtime.min.js</url>
       
-        <content type="html"><![CDATA[//动态标题var OriginTitile = document.title;var titleTime;document.addEventListener('visibilitychange', function () {  if (document.hidden) {    //离开当前页面时标签显示内容    document.title = '👀跑哪里去了~';    clearTimeout(titleTime);  } else {    //返回当前页面时标签显示内容    document.title = '🐖抓到你啦～';    //两秒后变回正常标题    titleTime = setTimeout(function () {      document.title = OriginTitile;    }, 2000);  }});]]></content>
+        <content type="html"><![CDATA[var now = new Date();function createtime() {  var t = new Date("04/01/2021 00:00:00");  now.setTime(now.getTime() + 250);  var e = (now - t) / 1e3 / 60 / 60 / 24,    a = Math.floor(e),    n = (now - t) / 1e3 / 60 / 60 - 24 * a,    r = Math.floor(n);  1 == String(r).length && (r = "0" + r);  var s = (now - t) / 1e3 / 60 - 1440 * a - 60 * r,    i = Math.floor(s);  1 == String(i).length && (i = "0" + i);  var o = (now - t) / 1e3 - 86400 * a - 3600 * r - 60 * i,    l = Math.round(o);  1 == String(l).length && (l = "0" + l);  let g = "";  (g =    r < 18 && r >= 9      ? `<img class='boardsign' src='https://npm.elemecdn.com/anzhiyu-blog@2.0.3/img/badge/安知鱼-上班摸鱼中.svg' title='距离月入25k也就还差一个大佬带我~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`      : `<img class='boardsign' src='https://npm.elemecdn.com/anzhiyu-blog@2.0.3/img/badge/安知鱼-下班啦.svg' title='下班了就该开开心心的玩耍，嘿嘿~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`),    document.getElementById("workboard") &&      (document.getElementById("workboard").innerHTML = g);}setInterval(() => {  createtime();}, 250);]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title></title>
+      <link href="/js/snow.js"/>
+      <url>/js/snow.js</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {    // 移动端不显示} else {    // document.write('<canvas id="snow" style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:-2;pointer-events:none"></canvas>');    window && (() => {        let e = {            flakeCount: 50, // 雪花数目            minDist: 150,   // 最小距离            color: "255, 255, 255", // 雪花颜色            size: 1.5,  // 雪花大小            speed: .5,  // 雪花速度            opacity: .7,    // 雪花透明度            stepsize: .5    // 步距        };        const t = window.requestAnimationFrame || window.mozRequestAnimationFrame || window.webkitRequestAnimationFrame || window.msRequestAnimationFrame || function (e) {            window.setTimeout(e, 1e3 / 60)        }            ;        window.requestAnimationFrame = t;        const i = document.getElementById("snow"),            n = i.getContext("2d"),            o = e.flakeCount;        let a = -100,            d = -100,            s = [];        i.width = window.innerWidth,            i.height = window.innerHeight;        const h = () => {            n.clearRect(0, 0, i.width, i.height);            const r = e.minDist;            for (let t = 0; t < o; t++) {                let o = s[t];                const h = a,                    w = d,                    m = o.x,                    c = o.y,                    p = Math.sqrt((h - m) * (h - m) + (w - c) * (w - c));                if (p < r) {                    const e = (h - m) / p,                        t = (w - c) / p,                        i = r / (p * p) / 2;                    o.velX -= i * e,                        o.velY -= i * t                } else                    o.velX *= .98,                        o.velY < o.speed && o.speed - o.velY > .01 && (o.velY += .01 * (o.speed - o.velY)),                        o.velX += Math.cos(o.step += .05) * o.stepSize;                n.fillStyle = "rgba(" + e.color + ", " + o.opacity + ")",                    o.y += o.velY,                    o.x += o.velX,                    (o.y >= i.height || o.y <= 0) && l(o),                    (o.x >= i.width || o.x <= 0) && l(o),                    n.beginPath(),                    n.arc(o.x, o.y, o.size, 0, 2 * Math.PI),                    n.fill()            }            t(h)        }            , l = e => {                e.x = Math.floor(Math.random() * i.width),                    e.y = 0,                    e.size = 3 * Math.random() + 2,                    e.speed = 1 * Math.random() + .5,                    e.velY = e.speed,                    e.velX = 0,                    e.opacity = .5 * Math.random() + .3            }            ;        document.addEventListener("mousemove", (e => {            a = e.clientX,                d = e.clientY        }        )),            window.addEventListener("resize", (() => {                i.width = window.innerWidth,                    i.height = window.innerHeight            }            )),            (() => {                for (let t = 0; t < o; t++) {                    const t = Math.floor(Math.random() * i.width)                        , n = Math.floor(Math.random() * i.height)                        , o = 3 * Math.random() + e.size                        , a = 1 * Math.random() + e.speed                        , d = .5 * Math.random() + e.opacity;                    s.push({                        speed: a,                        velX: 0,                        velY: a,                        x: t,                        y: n,                        size: o,                        stepSize: Math.random() / 30 * e.stepsize,                        step: 0,                        angle: 180,                        opacity: d                    })                }                h()            }            )()    }    )();}]]></content>
       
     </entry>
     
@@ -425,6 +422,17 @@
       <url>/js/universe.js</url>
       
         <content type="html"><![CDATA[function dark() {  window.requestAnimationFrame =    window.requestAnimationFrame ||    window.mozRequestAnimationFrame ||    window.webkitRequestAnimationFrame ||    window.msRequestAnimationFrame;  var n,    e,    i,    h,    t = 0.05,    s = document.getElementById("universe"),    o = !0,    a = "180,184,240",    r = "226,225,142",    d = "226,225,224",    c = [];  function f() {    (n = window.innerWidth),      (e = window.innerHeight),      (i = 0.216 * n),      s.setAttribute("width", n),      s.setAttribute("height", e);  }  function u() {    h.clearRect(0, 0, n, e);    for (var t = c.length, i = 0; i < t; i++) {      var s = c[i];      s.move(), s.fadeIn(), s.fadeOut(), s.draw();    }  }  function y() {    (this.reset = function () {      (this.giant = m(3)),        (this.comet = !this.giant && !o && m(10)),        (this.x = l(0, n - 10)),        (this.y = l(0, e)),        (this.r = l(1.1, 2.6)),        (this.dx = l(t, 6 * t) + (this.comet + 1 - 1) * t * l(50, 120) + 2 * t),        (this.dy = -l(t, 6 * t) - (this.comet + 1 - 1) * t * l(50, 120)),        (this.fadingOut = null),        (this.fadingIn = !0),        (this.opacity = 0),        (this.opacityTresh = l(0.2, 1 - 0.4 * (this.comet + 1 - 1))),        (this.do = l(5e-4, 0.002) + 0.001 * (this.comet + 1 - 1));    }),      (this.fadeIn = function () {        this.fadingIn &&          ((this.fadingIn = !(this.opacity > this.opacityTresh)),          (this.opacity += this.do));      }),      (this.fadeOut = function () {        this.fadingOut &&          ((this.fadingOut = !(this.opacity < 0)),          (this.opacity -= this.do / 2),          (this.x > n || this.y < 0) && ((this.fadingOut = !1), this.reset()));      }),      (this.draw = function () {        if ((h.beginPath(), this.giant))          (h.fillStyle = "rgba(" + a + "," + this.opacity + ")"),            h.arc(this.x, this.y, 2, 0, 2 * Math.PI, !1);        else if (this.comet) {          (h.fillStyle = "rgba(" + d + "," + this.opacity + ")"),            h.arc(this.x, this.y, 1.5, 0, 2 * Math.PI, !1);          for (var t = 0; t < 30; t++)            (h.fillStyle =              "rgba(" +              d +              "," +              (this.opacity - (this.opacity / 20) * t) +              ")"),              h.rect(                this.x - (this.dx / 4) * t,                this.y - (this.dy / 4) * t - 2,                2,                2              ),              h.fill();        } else          (h.fillStyle = "rgba(" + r + "," + this.opacity + ")"),            h.rect(this.x, this.y, this.r, this.r);        h.closePath(), h.fill();      }),      (this.move = function () {        (this.x += this.dx),          (this.y += this.dy),          !1 === this.fadingOut && this.reset(),          (this.x > n - n / 4 || this.y < 0) && (this.fadingOut = !0);      }),      setTimeout(function () {        o = !1;      }, 50);  }  function m(t) {    return Math.floor(1e3 * Math.random()) + 1 < 10 * t;  }  function l(t, i) {    return Math.random() * (i - t) + t;  }  f(),    window.addEventListener("resize", f, !1),    (function () {      h = s.getContext("2d");      for (var t = 0; t < i; t++) (c[t] = new y()), c[t].reset();      u();    })(),    (function t() {      document.getElementsByTagName("html")[0].getAttribute("data-theme") ==        "dark" && u(),        window.requestAnimationFrame(t);    })();}dark();// 星空代码]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/title.js"/>
+      <url>/js/title.js</url>
+      
+        <content type="html"><![CDATA[//动态标题var OriginTitile = document.title;var titleTime;document.addEventListener('visibilitychange', function () {  if (document.hidden) {    //离开当前页面时标签显示内容    document.title = '👀跑哪里去了~';    clearTimeout(titleTime);  } else {    //返回当前页面时标签显示内容    document.title = '🐖抓到你啦～';    //两秒后变回正常标题    titleTime = setTimeout(function () {      document.title = OriginTitile;    }, 2000);  }});]]></content>
       
     </entry>
     
@@ -456,6 +464,17 @@
       <title>tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
