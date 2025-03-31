@@ -736,13 +736,13 @@ h6::before {
 }
 @keyframes huxi_light {
   0% {
-    box-shadow: 0px 0px 1px 1px #e9f5fa;
+    box-shadow: 0px 0px 1px 1px #641556;
   }
   50% {
-    box-shadow: 0px 0px 5px 5px #e9f5fa;
+    box-shadow: 0px 0px 5px 5px #b9109d;
   }
   100% {
-    box-shadow: 0px 0px 1px 1px #e9f5fa;
+    box-shadow: 0px 0px 1px 1px #5f024e;
   }
 }
 @keyframes huxi_dark {
@@ -832,4 +832,76 @@ h6::before {
     height: 40px;
     min-height: 40px;
   }
+}
+
+
+
+/* 右侧滑动条 */
+/* 滚动条样式 */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: rgba(73, 177, 245, 0.2);
+  border-radius: 2em;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--theme-color);
+  background-image: -webkit-linear-gradient(
+    45deg,
+    rgba(255, 255, 255, 0.4) 25%,
+    transparent 25%,
+    transparent 50%,
+    rgba(255, 255, 255, 0.4) 50%,
+    rgba(255, 255, 255, 0.4) 75%,
+    transparent 75%,
+    transparent
+  );
+  border-radius: 2em;
+}
+
+::-webkit-scrollbar-corner {
+  background-color: transparent;
+}
+
+::-moz-selection {
+  color: #fff;
+  background-color: var(--theme-color);
+}
+
+
+
+/* 雪花 */
+/* 雪花特效 */
+[data-theme="light"] #snow{
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -2;
+}
+
+/* 雪花黑夜模式不显示 */
+[data-theme="dark"] #snow{
+  display: none;
+}
+
+/* 渐变头像框 */
+#aside-content > .card-widget.card-info {
+  background: linear-gradient(-45deg, var(--anzhiyu-main), #031764, #150136, #67044d);
+  background-size: 400%;
+  box-shadow: var(--anzhiyu-shadow-black);
+  animation: gradient 15s ease infinite;
+  position: relative;
+  color: var(--anzhiyu-white);
+}
+.site-data > a .headline,
+.site-data > a .length-num {
+  color: var(--anzhiyu-white);
 }
