@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>那些年玩过的游戏</title>
+      <link href="/2025/04/03/game/"/>
+      <url>/2025/04/03/game/</url>
+      
+        <content type="html"><![CDATA[<head>    <title>古诗词集</title>    <style>        body {            font-family: 'SimSun', serif;            line-height: 1.6;            padding: 20px;            font-size: 18px; /* 添加这一行，将字体大小设置为 18px ，你可以根据需要调整数值 */        }    </style></head><h1 id="想法"><a href="#想法" class="headerlink" title="想法"></a>想法</h1><p>昨天晚上在床上躺着，我想我这个博客能写点什么呢。<img src="/img/game/哎.png" width="200" height="200" aline='left' class='left-image'><br>嗯….来写点游戏相关的吧…这是我心中前十的游戏排名🥳🥳</p><p><br><br></p><h1 id="第一名：《塞尔达传说：旷野之息》"><a href="#第一名：《塞尔达传说：旷野之息》" class="headerlink" title="第一名：《塞尔达传说：旷野之息》"></a>第一名：《塞尔达传说：旷野之息》</h1><p><img src="/img/game/塞尔达.jpg" width="800" height="500"></p><p>有时候真是不得不说，就是为了醋包了这顿饺子😁就像买ns就是为了塞尔达。<br><br>《塞尔达传说：旷野之息》，在我有开这个文章的想法的时候就在我的脑中内定了第一。最开始了解到塞尔达这个ip就是因为野炊这部作品。虽然ns的画质真的很烂但我最开始被野炊吸引的点却是它的美术风格。<br><br>我很喜欢在野炊的平原上听风吹拂草地的风声以及看着风吹过草地，草原微微弯曲的感觉。加上野炊对大世界的渲染，让我在玩游戏的时候感觉我就是在海拉鲁大陆的link。<br><br>说起野炊，真的不得不吹一下野炊对大世界这个玩法的渲染，在玩了这么多大世界游戏中我是觉得野炊的大世界是一个真的活着的世界。在不同时间段你去做同一件事是不同的进展和方式。<br>野炊的弱引导是它这部作品的核心，你可以漫无目的的探索海拉鲁大陆，</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> game </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> game </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于spike1666.top</title>
+      <link href="/2025/04/02/%E4%BB%8B%E7%BB%8D/"/>
+      <url>/2025/04/02/%E4%BB%8B%E7%BB%8D/</url>
+      
+        <content type="html"><![CDATA[<head>    <title>古诗词集</title>    <style>        body {            font-family: 'SimSun', serif;            line-height: 1.6;            padding: 20px;            font-size: 18px; /* 添加这一行，将字体大小设置为 18px ，你可以根据需要调整数值 */        }    </style></head><h1 id="这是什么"><a href="#这是什么" class="headerlink" title="这是什么"></a>这是什么</h1><ol><li>嗯，如你所见，这是我用各种轮子搭建的一个关于自己的博客。其实我本来是想写一个手绘风格日记的网站来记录我自己想写的事情，但是看到了这个博客框架。所以选择了博客来记录。</li></ol><h1 id="关于这个网站"><a href="#关于这个网站" class="headerlink" title="关于这个网站"></a>关于这个网站</h1><ol><li><p>推荐使用电脑访问：因为很多插件在移动端是显示不出来的。提醒移动端，页面移动时右上角的三横杠符号是菜单选项，旁边的圆圈则是随机选择一篇文章进行访问。</p></li><li><p>推荐夜间模式：因为夜间模式的星火特效好看，白天的雪花特效不是很明显。手机端无所谓了，不仔细看的话根本看不出有特效。😅😅</p></li><li><p>如果画面中间有头像在闪烁或者上方有彩色进度条则表示页面在加载中，因为是vercel部署，速度可能会有点慢。</p></li><li><p>有时候会出现页面跳转重新加载静态事件，嗯….是因为pjax实在是太难调试了可能又是哪来了个报错，不过还是那句话，“能跑就行”🤣。（因为报错我都想禁用F12防止你们看到了😑）</p></li><li><p>电脑鼠标右键进入全屏模式</p></li></ol><h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><ol><li>这个网站主要目的是写文章，应该也不会更新其他部分了。<br></li><li>日记的密码你们可以猜猜，我是不会说的，猜出来给你看🤣🤣。<br></li><li>其实本来是想着自己本地玩玩没想着部署到网上的，但是我看阿里云注册一个域名这么便宜就想着搞一个玩玩。</li><li>欢迎大家来看看，随意留言（给我刷刷观看量🥰🥰）.<br></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>hexo开发</title>
       <link href="/2025/03/31/hexo/"/>
       <url>/2025/03/31/hexo/</url>
@@ -18,6 +68,12 @@
       </categories>
       
       
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
     </entry>
     
     
@@ -27,7 +83,7 @@
       <link href="/2025/03/31/%E8%9B%8A%E7%9C%9F%E4%BA%BA%E8%AF%97%E8%AF%8D/"/>
       <url>/2025/03/31/%E8%9B%8A%E7%9C%9F%E4%BA%BA%E8%AF%97%E8%AF%8D/</url>
       
-        <content type="html"><![CDATA[<p><span style="font-size: 44px;"><br><img src="\img\蛊真人.png" alt="蛊真人"></p><h1 id="《忆秦娥・娄山关》"><a href="#《忆秦娥・娄山关》" class="headerlink" title="《忆秦娥・娄山关》"></a>《忆秦娥・娄山关》</h1><p><strong>雄关漫道真如铁，而今迈步从头越。</strong><br><strong>雨打风吹几重重，不敌一口浊酒液。</strong></p><h1 id="《临江仙・滚滚长江东逝水》"><a href="#《临江仙・滚滚长江东逝水》" class="headerlink" title="《临江仙・滚滚长江东逝水》"></a>《临江仙・滚滚长江东逝水》</h1><p><strong>朝如青丝暮成雪，是非成败转头空。</strong></p><h1 id="《行行重行行》"><a href="#《行行重行行》" class="headerlink" title="《行行重行行》"></a>《行行重行行》</h1><p><strong>仙路阻且长，岁月忽已晚。</strong><br><strong>情仇已绵长，君思仙尽头，我思君安危。</strong><br><strong>生死两茫茫，为君梦还乡。</strong></p><h1 id="《满江红・小住京华》"><a href="#《满江红・小住京华》" class="headerlink" title="《满江红・小住京华》"></a>《满江红・小住京华》</h1><p><strong>凡夫俗子岂识我，非到末路不甘休！</strong></p><h1 id="《感遇》"><a href="#《感遇》" class="headerlink" title="《感遇》"></a>《感遇》</h1><p><strong>一生不利己，忧济在元元。</strong><br><strong>捐躯赴难死，星光照人间。</strong><br><strong>重活物人非，五洲大不同。</strong><br><strong>丹心唯一一，三相挽天倾！</strong></p><h1 id="古月方源被正道围攻时吟诗"><a href="#古月方源被正道围攻时吟诗" class="headerlink" title="古月方源被正道围攻时吟诗"></a>古月方源被正道围攻时吟诗</h1><p><strong>朝如青丝暮成雪，是非成败转头空。</strong></p><h1 id="《古月方源被白凝冰与铁若男合谋擒获后吟诗》"><a href="#《古月方源被白凝冰与铁若男合谋擒获后吟诗》" class="headerlink" title="《古月方源被白凝冰与铁若男合谋擒获后吟诗》"></a>《古月方源被白凝冰与铁若男合谋擒获后吟诗》</h1><p><strong>看万山红遍，层林尽染；漫江碧透，百舸争流。</strong><br><strong>鹰击长空，鱼翔浅底，万类霜天竞自由。</strong><br><strong>怅寥廓，问苍茫大地，谁主沉浮？</strong></p><h1 id="古月方源炼出定仙游后吟诗"><a href="#古月方源炼出定仙游后吟诗" class="headerlink" title="古月方源炼出定仙游后吟诗"></a>古月方源炼出定仙游后吟诗</h1><p><strong>千古地仙随风逝，昔日三王归青冢。</strong><br><strong>阳莽憾陨谁无败？卷土重来再称王。</strong><br><strong>天河一挂淘龙鱼，逆天独行顾八荒。</strong><br><strong>今日暂且展翼去，明朝登仙笞凤凰！</strong></p><h1 id="古月方源易容假扮武遗海参加斗诗晚会吟诗"><a href="#古月方源易容假扮武遗海参加斗诗晚会吟诗" class="headerlink" title="古月方源易容假扮武遗海参加斗诗晚会吟诗"></a>古月方源易容假扮武遗海参加斗诗晚会吟诗</h1><p><strong>大海啊，你全是水。</strong><br><strong>骏马啊，你四条腿。</strong><br><strong>美人啊，你有大大的眼睛，还有一张嘴！</strong></p><h1 id="古月方源九转成尊后吟诗"><a href="#古月方源九转成尊后吟诗" class="headerlink" title="古月方源九转成尊后吟诗"></a>古月方源九转成尊后吟诗</h1><p><strong>早岁已知世事艰，仍许飞鸿荡云间。</strong><br><strong>一路寒风身如絮，命海沉浮客独行。</strong><br><strong>千磨万击心铸铁，殚精竭虑铸一剑。</strong><br><strong>今朝剑指叠云处，炼蛊炼人还炼天！</strong></p><h1 id="白凝冰吟诗"><a href="#白凝冰吟诗" class="headerlink" title="白凝冰吟诗"></a>白凝冰吟诗</h1><p><strong>万丈红尘缤纷彩，天涯云水路遥长。</strong><br><strong>此刻风流归天地，不胜水中明月光。</strong></p><h1 id="气绝魔仙吟诗"><a href="#气绝魔仙吟诗" class="headerlink" title="气绝魔仙吟诗"></a>气绝魔仙吟诗</h1><p><strong>登山寻仙处，寸步间高险。</strong><br><strong>浮尘似光流，暗蛊藏心沟。</strong><br><strong>金玉如一梦，万年恨寂寥。</strong><br><strong>五域九天功，尽在一气中。</strong></p><h1 id="武庸吟诗"><a href="#武庸吟诗" class="headerlink" title="武庸吟诗"></a>武庸吟诗</h1><p><strong>永生缥缈非我求，长生无为老愧羞。</strong><br><strong>界壁消散乱世起，宿命一去竞自由。</strong><br><strong>鹰击长空鲸霸海，不试怎知龙与蚯。</strong><br><strong>凡夫俗子岂识我，非到末路不甘休！</strong></p><h1 id="梦求真吟诗"><a href="#梦求真吟诗" class="headerlink" title="梦求真吟诗"></a>梦求真吟诗</h1><p><strong>梦里轻烟天外客，夜夜梦中唤心魂。</strong><br><strong>纵是百年无缘分，解脱俗尘梦纯真。</strong></p><h1 id="青仇吟诗"><a href="#青仇吟诗" class="headerlink" title="青仇吟诗"></a>青仇吟诗</h1><p><strong>十万悠悠恨不休，粉身碎骨杀敌酋。</strong><br><strong>神帝城中再睁眼，因果树下有青仇。</strong></p><h1 id="无极魔尊吟诗"><a href="#无极魔尊吟诗" class="headerlink" title="无极魔尊吟诗"></a>无极魔尊吟诗</h1><p><strong>从来是疯魔道痴，俯仰问阴阳乾坤。</strong><br><strong>百万年筹谋积蓄，待今朝无极永生！</strong><br>&lt;/span&gt;</p><div align=center class="aspect-ratio"><iframe src="https://www.bilibili.com/video/BV1ub19YXErV/?spm_id_from=333.337.search-card.all.click&vd_source=8fb2b06ae8044f727fa547035de27079"scrolling="no"border="0"frameborder="no"framespacing="0"high_quality=1danmaku=1allowfullscreen="true"></iframe></div>]]></content>
+        <content type="html"><![CDATA[<p><span style="font-size: 44px;"><br><img src="\img\蛊真人.png" alt="蛊真人"></p><h1 id="《忆秦娥・娄山关》"><a href="#《忆秦娥・娄山关》" class="headerlink" title="《忆秦娥・娄山关》"></a>《忆秦娥・娄山关》</h1><p><strong>雄关漫道真如铁，而今迈步从头越。</strong><br><strong>雨打风吹几重重，不敌一口浊酒液。</strong></p><h1 id="《临江仙・滚滚长江东逝水》"><a href="#《临江仙・滚滚长江东逝水》" class="headerlink" title="《临江仙・滚滚长江东逝水》"></a>《临江仙・滚滚长江东逝水》</h1><p><strong>朝如青丝暮成雪，是非成败转头空。</strong></p><h1 id="《行行重行行》"><a href="#《行行重行行》" class="headerlink" title="《行行重行行》"></a>《行行重行行》</h1><p><strong>仙路阻且长，岁月忽已晚。</strong><br><strong>情仇已绵长，君思仙尽头，我思君安危。</strong><br><strong>生死两茫茫，为君梦还乡。</strong></p><h1 id="《满江红・小住京华》"><a href="#《满江红・小住京华》" class="headerlink" title="《满江红・小住京华》"></a>《满江红・小住京华》</h1><p><strong>凡夫俗子岂识我，非到末路不甘休！</strong></p><h1 id="《感遇》"><a href="#《感遇》" class="headerlink" title="《感遇》"></a>《感遇》</h1><p><strong>一生不利己，忧济在元元。</strong><br><strong>捐躯赴难死，星光照人间。</strong><br><strong>重活物人非，五洲大不同。</strong><br><strong>丹心唯一一，三相挽天倾！</strong></p><h1 id="古月方源被正道围攻时吟诗"><a href="#古月方源被正道围攻时吟诗" class="headerlink" title="古月方源被正道围攻时吟诗"></a>古月方源被正道围攻时吟诗</h1><p><strong>朝如青丝暮成雪，是非成败转头空。</strong></p><h1 id="《古月方源被白凝冰与铁若男合谋擒获后吟诗》"><a href="#《古月方源被白凝冰与铁若男合谋擒获后吟诗》" class="headerlink" title="《古月方源被白凝冰与铁若男合谋擒获后吟诗》"></a>《古月方源被白凝冰与铁若男合谋擒获后吟诗》</h1><p><strong>看万山红遍，层林尽染；漫江碧透，百舸争流。</strong><br><strong>鹰击长空，鱼翔浅底，万类霜天竞自由。</strong><br><strong>怅寥廓，问苍茫大地，谁主沉浮？</strong></p><h1 id="古月方源炼出定仙游后吟诗"><a href="#古月方源炼出定仙游后吟诗" class="headerlink" title="古月方源炼出定仙游后吟诗"></a>古月方源炼出定仙游后吟诗</h1><p><strong>千古地仙随风逝，昔日三王归青冢。</strong><br><strong>阳莽憾陨谁无败？卷土重来再称王。</strong><br><strong>天河一挂淘龙鱼，逆天独行顾八荒。</strong><br><strong>今日暂且展翼去，明朝登仙笞凤凰！</strong></p><h1 id="古月方源易容假扮武遗海参加斗诗晚会吟诗"><a href="#古月方源易容假扮武遗海参加斗诗晚会吟诗" class="headerlink" title="古月方源易容假扮武遗海参加斗诗晚会吟诗"></a>古月方源易容假扮武遗海参加斗诗晚会吟诗</h1><p><strong>大海啊，你全是水。</strong><br><strong>骏马啊，你四条腿。</strong><br><strong>美人啊，你有大大的眼睛，还有一张嘴！</strong></p><h1 id="古月方源九转成尊后吟诗"><a href="#古月方源九转成尊后吟诗" class="headerlink" title="古月方源九转成尊后吟诗"></a>古月方源九转成尊后吟诗</h1><p><strong>早岁已知世事艰，仍许飞鸿荡云间。</strong><br><strong>一路寒风身如絮，命海沉浮客独行。</strong><br><strong>千磨万击心铸铁，殚精竭虑铸一剑。</strong><br><strong>今朝剑指叠云处，炼蛊炼人还炼天！</strong></p><h1 id="白凝冰吟诗"><a href="#白凝冰吟诗" class="headerlink" title="白凝冰吟诗"></a>白凝冰吟诗</h1><p><strong>万丈红尘缤纷彩，天涯云水路遥长。</strong><br><strong>此刻风流归天地，不胜水中明月光。</strong></p><h1 id="气绝魔仙吟诗"><a href="#气绝魔仙吟诗" class="headerlink" title="气绝魔仙吟诗"></a>气绝魔仙吟诗</h1><p><strong>登山寻仙处，寸步间高险。</strong><br><strong>浮尘似光流，暗蛊藏心沟。</strong><br><strong>金玉如一梦，万年恨寂寥。</strong><br><strong>五域九天功，尽在一气中。</strong></p><h1 id="武庸吟诗"><a href="#武庸吟诗" class="headerlink" title="武庸吟诗"></a>武庸吟诗</h1><p><strong>永生缥缈非我求，长生无为老愧羞。</strong><br><strong>界壁消散乱世起，宿命一去竞自由。</strong><br><strong>鹰击长空鲸霸海，不试怎知龙与蚯。</strong><br><strong>凡夫俗子岂识我，非到末路不甘休！</strong></p><h1 id="梦求真吟诗"><a href="#梦求真吟诗" class="headerlink" title="梦求真吟诗"></a>梦求真吟诗</h1><p><strong>梦里轻烟天外客，夜夜梦中唤心魂。</strong><br><strong>纵是百年无缘分，解脱俗尘梦纯真。</strong></p><h1 id="青仇吟诗"><a href="#青仇吟诗" class="headerlink" title="青仇吟诗"></a>青仇吟诗</h1><p><strong>十万悠悠恨不休，粉身碎骨杀敌酋。</strong><br><strong>神帝城中再睁眼，因果树下有青仇。</strong></p><h1 id="无极魔尊吟诗"><a href="#无极魔尊吟诗" class="headerlink" title="无极魔尊吟诗"></a>无极魔尊吟诗</h1><p><strong>从来是疯魔道痴，俯仰问阴阳乾坤。</strong><br><strong>百万年筹谋积蓄，待今朝无极永生！</strong></p><div align=center class="aspect-ratio"><iframe src="https://www.bilibili.com/video/BV1ub19YXErV/?spm_id_from=333.337.search-card.all.click&vd_source=8fb2b06ae8044f727fa547035de27079"scrolling="no"border="0"frameborder="no"framespacing="0"high_quality=1danmaku=1allowfullscreen="true"></iframe></div>]]></content>
       
       
       <categories>
@@ -73,31 +129,6 @@
     
     
     <entry>
-      <title>一日之遇，景食之乐</title>
-      <link href="/2025/03/22/%E4%B8%9C%E5%8C%97%E8%8F%9C/"/>
-      <url>/2025/03/22/%E4%B8%9C%E5%8C%97%E8%8F%9C/</url>
-      
-        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="226860190f4cfc47a74e0efc60fc17cc7a2c4b358e7852d4d7097fd086bda9bd">729c507bcdf22e80dd889ffdee7906716a74ffbd8ccb76fb8a05fecc8fab66abba9e04d3aab97536dee3e6020d437011e761554a712277ab1f012c7a94bea2bfc33095365bad87202d61b782562fae7c90891cf1bba23a38ca0395ab7264a0009871f8739191e0b9f5f7527efe08aa39e840afce3bc3dc060f0867282107f591d4f429262fac395d2bd099d4656ed44103264800550efde49b3debdb72c8a1314893f56241ea1cc0a5e011a1f4a97164de59ccb54087a32ef36bf015dcc6e23d93163c78fba8d290a8bcb6a0b137fb9e798aa7a8040031a7f8d36885c24eaa69f27d264ba00357123adf2c6afe2ee3738a5eb432762ceb77bb3e78aeb76b74b02edcf2bbbe17e761ed3d2238882e73ec6db4d09a49f944f712330bd814b89f4eaf4f181f094276b778764fc850d7cd5fb6ddd639207b208e566085d2e0430cb3cd59b727152dee01ae02df707c1f4c0deb1411f56cacd2d915fd7a686092a77c9020fcd51717eaf7c1cf67bdb9891f56aa4b7338578374bffe563f6d4ae98755eb46bed1879360b9d726d4dc1923d94beb4284adcea2dc5c3cb33d4f66a56ba38aca1bb4b2cb8d55a463096541239ce5f6100817ed64ca2422108783c8d5bbd5fbef036806d7b2f05e610edfbabf0873fd92ed9929f180bae5b36158aa3322ffad62411ab881fe192d6ea730ab6b19cd0b144b358d0d9a028dd3ee67a25e049709582193227b6290ee3a3b59542d0b70db30399ea7054bd575926c08527be76532cdb020fc95ea431c0df3a6d3feb74ca9e2447387f76532c3633701c1d47751943824d7e03b0d2d488e90ea3c5a65e8cc631a5e68e9de3bb59ca220d8ad4d598b6d77192d1344688914513a473236fe53583b1f1050928f56afb312ec90f132df0b8d401b70ab79ae97fa0323ba7d6033b075aeb8c6332661bf3fc77446160b585e6f33b48b61a7d383c74ff5f3d64e5cc3884b8c40811cf5d25928dfc2acb5a247342b3b802f910675fe32b26ac422615cdbc22bc5bdb6b86a061e0382b4042c68cf4041e5cce8088ca6ad43f25d8dd3d7b08f18098b5ca2521a2d237dc3eeeaa2ebceb31f4fcb41d7280cb75c94c6733695180c0d52e4ce2e9a3a50ca8c61f893d3b4543860af5ac8222bef66fbff58d5b73738e591c9d4b01e71a65cd4242c8accf2571d1fbbd672851f4390e7d01a92abc6d8e51bef66c9491d549331f37e9b7c858c3e11b9c1c722595614e161ec2d71a73cd3789738c01a73bd5dbf253dcd2a22cb76b135cbc6d0022bcaced86e739b36d8d2d1712c083c570f3afeae296138b066efd4cfbf5fc5aa3fff66c0f06c1474a9690dcf2dc58122a87aff65008be05995aa6ee05f4586a2cf90545e1c59778357b2b88b70bdff0ac052bcc455b1837799698b762eed6737b3f4419d057a2dae450f0e36dda346ee5ac028bf044d241ed7c205df064e3752c7f03b0f3a03484d513e7b85c3e89e8b000e026c881b9b24bd744d54804632696b26e5c2467a2a4eec3dea352101bc11c67734545edff90317a4d8efc1a5bbbeb2e84fdd5c1a9954ae8186a0da88f7bda1321c0aea708e1a856976259bb6b55d60be908b0f9e7795fa9dd95b78b9a61f9b34bbf835bd86caed9a63db40dbae3ea8bf59d867818e510950abe75a8c12c7261f62d6acf5a0f7f11730b1f761d672f21952bf43fb09ecabeab1d5b15a9b4d042ca2c1c177e92b9e7348c7dcc149f65c4db50e3ab552dc0c00c774a7d709144a92dcaf0099aee547456d336a6164ed8f9bfd4baab61e9357f059a4f37040603bad21520bd5b9389061086dde9c4b3d97ce7744b9a0e0530c6bf3bd62d2f4853657c01f6259ce6ef060ae3b3234558210f6f99d8a8d89758c695a36d32728f7b49d88a24d77a7376cc145f03016bdb97b10c8943cda8a2858cabfd731b31e090288a6347b02cb75d4ba48278cee2b1a770a4cc8c45084357a92f7dcb1e998d9dc03363de88b21371a1910f6f1c6cfe941eabc15c175bab726b11668622b55d58d2c4416ad49199eb1e70d85cc2d7779dcd328ccb565c5aab985f1f8435d754e2dee1cb77ffb667a23ec07ddd4f2d81aa48f7ac874761d95719d557821dfa7a31d0953eb9d857f0fcb64234c86a3f39cddbe6397f4b3e28b3215fc6ac0792edd102de8f915f3e8117d3f6ed8b6c26bcf0483a7e6ecaace714f3923f1792f7dcf098538933f74452f13d5a0fbcd23881fd767121144485ed3e8b86f6deacdf6c4cedf7f9cf1fa9e6836b776a7d7b4c042469127e2fba4e74599a7666c2ffefecbbdd27539ab3ec7c2f7b91995bf4f6b9d779302d97242d7f429dd7262fbfa8d9d7ea0b3d569c11aa6a9a77421be0c04fd1d29794504d4fe694e715618ada6f68a31fc7b58bfbc011e28b8fc88a13b053ebc2e50c0a8a569f93032efef76b5a571866a946b99af33093cada19cadc9f12f74a3a4067a8e29a043d795c2ececf4bbbe17c7d665fa74459bad16de2b3266d366cd68c7c81c9cd05def0a35870327e39626ead39705c51ce5697e996aaf4243b4bf63ad84e6f52814ee0c653efdf8f9c113b5e642fce20d7406c8a3b81a5b91d5e4e42fcda34a9dd3f8def824f6a865fc6b97d8f03ed01e7e6ebbf88619bf0edd10281ba09d402c5c42de88304f99ed3cfc45836a283076894d29a26d3a0ffee1e803f45e1eee156edf87d943399615a1f7fb30257332bde7d44e6cac1840e8c0244b8d3a264be1f8e9fefcc525a454dc37d9f526cdc5f84f9c330df5e79be17bd704743f6d0a0acbd456c6c20ee9d65fe812833eab8f6c137436930437edae96b1de4d93466a5ef6b938dc23531a0ace05f5920de7de9689140a30aaabb2be51d60399def427d35b226ab0d7431126362fdcff978aaf6d012c459e23012e7a37f1d662df2517a8c72d4cf9617fe5f0ddd4f440cc65d894ab6ad911505bad8938b1483c4aba411bb020b402f524d6bd91b935e4656a68a73088dbfb6949181404a3ee312c5b58afa697c160256e05a6da3ee8298eef673753ee8c10f26bd897c71cfa285d4f067546456fb9f6465f6af22379bf13db77b4afa0377be30a7dd09513586b8a6a7946ccc5aa6f1b18dd20db5cc8325c65c29bd103640430027561f425a8f3f6421695eb84ff7766a85152b3349b9cc1797a65fbc2278627d6f48a9541b1ec195091ff8f2b7dc9c3e1a70a5f1f8d65460fb6ffbf8e336c97c8e2e36025015d12c1d2e34f7d347fa355d3e8e2fe887c3ebca1d42144072bb599bf9ba57a64188952230c52d02cffdae334d4fca1d68b9ef8c7b5da23a34d1f68bfd7cb7a9daf8e9d47bc7d4b967b4defd42a996d7be1fd173c76a6091a4cec26b0b25dbdeaf3f0159c597ed1ad9a56686e671b5169f4663cbe5d7f8579269fd9390d5bf4bf47d7d773ac5599c7155af37ff486210006d43b24ab6c51814ffae67cea9c28757c4382a34300015d74120e09f945e08a34fb483f0f82f944478059e9192e26e6b3e90d1ac5f7d261918871fd8352aadc15cb93eedcf811d4ab65f0ddc16f642b1c18ea4446492351174c21ddc08534f16aac48839847346cc755d755306215a76fd2a01646ea008e92981115ad79aecc2c5372e5445706fa33eb70a6acec028445c39dc5060c83ad43c87bb8cdafb19d9745ac3c92a3af106965f2226fc561129f5c42c0cde0210c1b5642e771536aacf7c24546265ad0059a139688788dce98b10194f18b7215fd3003fe209ae825e6125263bb9059f1f03730e695e89bf3b1ddc130c4af15ada8fdf1eedfd89a00778a95119652569eba308587c3f8aa71c9da6b425ad95dc9b2bc97764210b58b0b7a5199d6dcf2a388f6b7c821ca4127f09f992bf7af643013db59d3a017c627411e4f72ea6502f93ef120d5833336d418b9e9354dc5ac6186186f27ca39f47c4f0477b4f033fd3d92e5fdc02524a01a5282</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">您好, 这里需要密码.</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      
-      
-      <categories>
-          
-          <category> 日记 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 日记 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>随笔</title>
       <link href="/2025/03/22/love/"/>
       <url>/2025/03/22/love/</url>
@@ -115,6 +146,31 @@
         <tags>
             
             <tag> love </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>一日之遇，景食之乐</title>
+      <link href="/2025/03/22/%E4%B8%9C%E5%8C%97%E8%8F%9C/"/>
+      <url>/2025/03/22/%E4%B8%9C%E5%8C%97%E8%8F%9C/</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="226860190f4cfc47a74e0efc60fc17cc7a2c4b358e7852d4d7097fd086bda9bd">729c507bcdf22e80dd889ffdee7906716a74ffbd8ccb76fb8a05fecc8fab66abba9e04d3aab97536dee3e6020d437011e761554a712277ab1f012c7a94bea2bfc33095365bad87202d61b782562fae7c90891cf1bba23a38ca0395ab7264a0009871f8739191e0b9f5f7527efe08aa39e840afce3bc3dc060f0867282107f591d4f429262fac395d2bd099d4656ed44103264800550efde49b3debdb72c8a1314893f56241ea1cc0a5e011a1f4a97164de59ccb54087a32ef36bf015dcc6e23d93163c78fba8d290a8bcb6a0b137fb9e798aa7a8040031a7f8d36885c24eaa69f27d264ba00357123adf2c6afe2ee3738a5eb432762ceb77bb3e78aeb76b74b02edcf2bbbe17e761ed3d2238882e73ec6db4d09a49f944f712330bd814b89f4eaf4f181f094276b778764fc850d7cd5fb6ddd639207b208e566085d2e0430cb3cd59b727152dee01ae02df707c1f4c0deb1411f56cacd2d915fd7a686092a77c9020fcd51717eaf7c1cf67bdb9891f56aa4b7338578374bffe563f6d4ae98755eb46bed1879360b9d726d4dc1923d94beb4284adcea2dc5c3cb33d4f66a56ba38aca1bb4b2cb8d55a463096541239ce5f6100817ed64ca2422108783c8d5bbd5fbef036806d7b2f05e610edfbabf0873fd92ed9929f180bae5b36158aa3322ffad62411ab881fe192d6ea730ab6b19cd0b144b358d0d9a028dd3ee67a25e049709582193227b6290ee3a3b59542d0b70db30399ea7054bd575926c08527be76532cdb020fc95ea431c0df3a6d3feb74ca9e2447387f76532c3633701c1d47751943824d7e03b0d2d488e90ea3c5a65e8cc631a5e68e9de3bb59ca220d8ad4d598b6d77192d1344688914513a473236fe53583b1f1050928f56afb312ec90f132df0b8d401b70ab79ae97fa0323ba7d6033b075aeb8c6332661bf3fc77446160b585e6f33b48b61a7d383c74ff5f3d64e5cc3884b8c40811cf5d25928dfc2acb5a247342b3b802f910675fe32b26ac422615cdbc22bc5bdb6b86a061e0382b4042c68cf4041e5cce8088ca6ad43f25d8dd3d7b08f18098b5ca2521a2d237dc3eeeaa2ebceb31f4fcb41d7280cb75c94c6733695180c0d52e4ce2e9a3a50ca8c61f893d3b4543860af5ac8222bef66fbff58d5b73738e591c9d4b01e71a65cd4242c8accf2571d1fbbd672851f4390e7d01a92abc6d8e51bef66c9491d549331f37e9b7c858c3e11b9c1c722595614e161ec2d71a73cd3789738c01a73bd5dbf253dcd2a22cb76b135cbc6d0022bcaced86e739b36d8d2d1712c083c570f3afeae296138b066efd4cfbf5fc5aa3fff66c0f06c1474a9690dcf2dc58122a87aff65008be05995aa6ee05f4586a2cf90545e1c59778357b2b88b70bdff0ac052bcc455b1837799698b762eed6737b3f4419d057a2dae450f0e36dda346ee5ac028bf044d241ed7c205df064e3752c7f03b0f3a03484d513e7b85c3e89e8b000e026c881b9b24bd744d54804632696b26e5c2467a2a4eec3dea352101bc11c67734545edff90317a4d8efc1a5bbbeb2e84fdd5c1a9954ae8186a0da88f7bda1321c0aea708e1a856976259bb6b55d60be908b0f9e7795fa9dd95b78b9a61f9b34bbf835bd86caed9a63db40dbae3ea8bf59d867818e510950abe75a8c12c7261f62d6acf5a0f7f11730b1f761d672f21952bf43fb09ecabeab1d5b15a9b4d042ca2c1c177e92b9e7348c7dcc149f65c4db50e3ab552dc0c00c774a7d709144a92dcaf0099aee547456d336a6164ed8f9bfd4baab61e9357f059a4f37040603bad21520bd5b9389061086dde9c4b3d97ce7744b9a0e0530c6bf3bd62d2f4853657c01f6259ce6ef060ae3b3234558210f6f99d8a8d89758c695a36d32728f7b49d88a24d77a7376cc145f03016bdb97b10c8943cda8a2858cabfd731b31e090288a6347b02cb75d4ba48278cee2b1a770a4cc8c45084357a92f7dcb1e998d9dc03363de88b21371a1910f6f1c6cfe941eabc15c175bab726b11668622b55d58d2c4416ad49199eb1e70d85cc2d7779dcd328ccb565c5aab985f1f8435d754e2dee1cb77ffb667a23ec07ddd4f2d81aa48f7ac874761d95719d557821dfa7a31d0953eb9d857f0fcb64234c86a3f39cddbe6397f4b3e28b3215fc6ac0792edd102de8f915f3e8117d3f6ed8b6c26bcf0483a7e6ecaace714f3923f1792f7dcf098538933f74452f13d5a0fbcd23881fd767121144485ed3e8b86f6deacdf6c4cedf7f9cf1fa9e6836b776a7d7b4c042469127e2fba4e74599a7666c2ffefecbbdd27539ab3ec7c2f7b91995bf4f6b9d779302d97242d7f429dd7262fbfa8d9d7ea0b3d569c11aa6a9a77421be0c04fd1d29794504d4fe694e715618ada6f68a31fc7b58bfbc011e28b8fc88a13b053ebc2e50c0a8a569f93032efef76b5a571866a946b99af33093cada19cadc9f12f74a3a4067a8e29a043d795c2ececf4bbbe17c7d665fa74459bad16de2b3266d366cd68c7c81c9cd05def0a35870327e39626ead39705c51ce5697e996aaf4243b4bf63ad84e6f52814ee0c653efdf8f9c113b5e642fce20d7406c8a3b81a5b91d5e4e42fcda34a9dd3f8def824f6a865fc6b97d8f03ed01e7e6ebbf88619bf0edd10281ba09d402c5c42de88304f99ed3cfc45836a283076894d29a26d3a0ffee1e803f45e1eee156edf87d943399615a1f7fb30257332bde7d44e6cac1840e8c0244b8d3a264be1f8e9fefcc525a454dc37d9f526cdc5f84f9c330df5e79be17bd704743f6d0a0acbd456c6c20ee9d65fe812833eab8f6c137436930437edae96b1de4d93466a5ef6b938dc23531a0ace05f5920de7de9689140a30aaabb2be51d60399def427d35b226ab0d7431126362fdcff978aaf6d012c459e23012e7a37f1d662df2517a8c72d4cf9617fe5f0ddd4f440cc65d894ab6ad911505bad8938b1483c4aba411bb020b402f524d6bd91b935e4656a68a73088dbfb6949181404a3ee312c5b58afa697c160256e05a6da3ee8298eef673753ee8c10f26bd897c71cfa285d4f067546456fb9f6465f6af22379bf13db77b4afa0377be30a7dd09513586b8a6a7946ccc5aa6f1b18dd20db5cc8325c65c29bd103640430027561f425a8f3f6421695eb84ff7766a85152b3349b9cc1797a65fbc2278627d6f48a9541b1ec195091ff8f2b7dc9c3e1a70a5f1f8d65460fb6ffbf8e336c97c8e2e36025015d12c1d2e34f7d347fa355d3e8e2fe887c3ebca1d42144072bb599bf9ba57a64188952230c52d02cffdae334d4fca1d68b9ef8c7b5da23a34d1f68bfd7cb7a9daf8e9d47bc7d4b967b4defd42a996d7be1fd173c76a6091a4cec26b0b25dbdeaf3f0159c597ed1ad9a56686e671b5169f4663cbe5d7f8579269fd9390d5bf4bf47d7d773ac5599c7155af37ff486210006d43b24ab6c51814ffae67cea9c28757c4382a34300015d74120e09f945e08a34fb483f0f82f944478059e9192e26e6b3e90d1ac5f7d261918871fd8352aadc15cb93eedcf811d4ab65f0ddc16f642b1c18ea4446492351174c21ddc08534f16aac48839847346cc755d755306215a76fd2a01646ea008e92981115ad79aecc2c5372e5445706fa33eb70a6acec028445c39dc5060c83ad43c87bb8cdafb19d9745ac3c92a3af106965f2226fc561129f5c42c0cde0210c1b5642e771536aacf7c24546265ad0059a139688788dce98b10194f18b7215fd3003fe209ae825e6125263bb9059f1f03730e695e89bf3b1ddc130c4af15ada8fdf1eedfd89a00778a95119652569eba308587c3f8aa71c9da6b425ad95dc9b2bc97764210b58b0b7a5199d6dcf2a388f6b7c821ca4127f09f992bf7af643013db59d3a017c627411e4f72ea6502f93ef120d5833336d418b9e9354dc5ac6186186f27ca39f47c4f0477b4f033fd3d92e5fdc02524a01a5282</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">您好, 这里需要密码.</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      <categories>
+          
+          <category> 日记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 日记 </tag>
             
         </tags>
       
@@ -148,62 +204,18 @@
     
     
     <entry>
-      <title>趣事加一</title>
-      <link href="/2025/03/22/%E6%95%85%E4%BA%8B/"/>
-      <url>/2025/03/22/%E6%95%85%E4%BA%8B/</url>
-      
-        <content type="html"><![CDATA[<p>在一个宁静的夜晚，小明躺在床上，月光透过窗户洒在他的脸上。突然，一道神秘的光芒笼罩了他，等光芒散去，小明发现自己竟然站在了一片银色的土地上，抬头望去，一个巨大无比的月亮挂在天空。​<br>“这是哪儿？” 小明惊讶地自言自语。这时，一个小小的身影从旁边的石头后面跳了出来，原来是一只浑身散发着柔和光芒的小兔子。小兔子眨着红红的眼睛说：“欢迎来到月亮背面，我是月兔跳跳。”​<br>小明又惊又喜，跟着跳跳开始探索这个神奇的地方。他们来到一座闪闪发光的城堡前，城堡的大门紧闭着。跳跳告诉小明，城堡里藏着能实现任何愿望的宝石，但有一个邪恶的巫师守护着。​<br>正当他们想办法进入城堡时，巫师出现了。巫师挥动手中的魔杖，召唤出一群黑色的蝙蝠向他们扑来。小明和跳跳四处躲避，跳跳灵机一动，捡起地上的一根树枝，念起了奇怪的咒语，树枝瞬间变成了一把宝剑。小明拿着宝剑，勇敢地与蝙蝠战斗。​<br>经过一番激烈的对抗，小明终于击退了蝙蝠。巫师见状，恼羞成怒，亲自向他们发动攻击。小明和跳跳配合默契，一边躲避巫师的魔法攻击，一边寻找巫师的弱点。​<br>在关键时刻，小明发现巫师的魔杖顶端有一颗宝石，似乎是他力量的来源。他看准时机，高高跃起，用宝剑击中了魔杖，宝石掉落在地，巫师也失去了力量。​<br>小明和跳跳顺利进入城堡，找到了那颗神奇的宝石。小明许下愿望，希望能平安回家。光芒一闪，小明发现自己已经回到了床上。他揉了揉眼睛，回想着刚才的奇妙冒险，嘴角露出了微笑，而在窗外的月亮上，跳跳也正对着他挥手呢 。​</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> test </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> story </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>望月</title>
-      <link href="/2025/03/22/%E6%9C%9B%E6%9C%88/"/>
-      <url>/2025/03/22/%E6%9C%9B%E6%9C%88/</url>
-      
-        <content type="html"><![CDATA[<p>望月怀情<br>晚照逐波天际流，暮云渐隐月如钩。<br>清辉洒落千山静，素影徘徊万木幽。<br>独倚轩窗思旧事，遥瞻玉镜惹乡愁。<br>月光恰似离人泪，点点盈盈满眼眸</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> test </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 古诗 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>哈机密</title>
+      <title>JS测试</title>
       <link href="/2021/03/02/2/"/>
       <url>/2021/03/02/2/</url>
       
-        <content type="html"><![CDATA[<p>在小镇的角落里，生活着一只流浪猫，它身形瘦弱，毛发杂乱，身上还带着几处因争斗留下的伤痕。这只小猫习惯了在垃圾桶间翻找食物，夜晚则蜷缩在某个能避风的角落，抵御着冬日的寒冷。​<br>一个寒冷的冬日清晨，雪花纷纷扬扬地飘落，给整个小镇披上了一层银装。小猫拖着疲惫的身躯，在雪地里艰难地前行，它的爪子已经冻得麻木，每走一步都留下一个浅浅的小脚印。它在一处巷子里发现了一个被人丢弃的纸箱，虽然箱子已经湿透，但小猫实在太冷了，还是钻了进去，试图寻找一丝温暖。​<br>这时，住在巷子附近的小女孩艾米莉放学回家。她像往常一样蹦蹦跳跳地走着，突然听到了一阵微弱的猫叫声。艾米莉停下脚步，仔细倾听，发现声音是从那个湿透的纸箱里传来的。她小心翼翼地打开纸箱，看到了瑟瑟发抖的小猫。小猫用那双水汪汪的大眼睛望着艾米莉，眼神中充满了无助和恐惧。​<br>艾米莉心疼极了，她毫不犹豫地把小猫抱在怀里，用自己的围巾裹住它。“小可怜，跟我回家吧，我会照顾你的。” 艾米莉轻声说道。回到家后，艾米莉先给小猫洗了个热水澡，用毛巾擦干它的毛发，又找来一个小篮子，铺上柔软的旧毛毯，给小猫做了一个温暖的小窝。她还拿出了自己最爱吃的小鱼干喂给小猫，小猫一开始还有些警惕，但很快就狼吞虎咽地吃了起来。​<br>在艾米莉的悉心照料下，小猫的身体逐渐恢复了健康。它的毛发变得光滑柔顺，眼睛也变得明亮有神。小猫变得越来越活泼，每天都会在屋子里跑来跑去，给艾米莉一家带来了许多欢乐。艾米莉还给小猫取了个名字，叫 “雪球”，因为它刚被发现时，身上沾满了雪，就像一个小雪球一样。​<br>从那以后，雪球再也不用在寒冷的冬天流浪了。它每天都会和艾米莉一起玩耍，陪伴她度过快乐的时光。而艾米莉也从照顾雪球的过程中，学会了关爱和责任。在这个寒冷的冬天，雪球不仅收获了一个温暖的家，还收获了满满的爱，就像冬日里的暖阳，照进了它曾经灰暗的世界。​</p><div align=center class="aspect-ratio">    <iframe src="https://player.bilibili.com/player.html?aid=474023258&&page=1&as_wide=1&high_quality=1&danmaku=0"     scrolling="no"     border="0"     frameborder="no"     framespacing="0"     high_quality=1    danmaku=1     allowfullscreen="true">     </iframe></div><div class="twopeople">    <div class="container" style="height:200px;">        <canvas class="illo" width="800" height="800" style="max-width: 200px; max-height: 200px; touch-action: none; width: 640px; height: 640px;"></canvas>    </div>    <script src="https://cdn.jsdelivr.net/gh/Justlovesmile/CDN/js/twopeople1.js"></script>    <script src="https://cdn.jsdelivr.net/gh/Justlovesmile/CDN/js/zdog.dist.js"></script>    <script id="rendered-js" src="https://cdn.jsdelivr.net/gh/Justlovesmile/CDN/js/twopeople.js"></script>    <style>        .twopeople{            margin: 0;            align-items: center;            justify-content: center;            text-align: center;        }        canvas {            display: block;            margin: 0 auto;            cursor: move;        }    </style></div><!-- ---title: 文章标题date: 创建日期updated: 更新日期cover: 文章封面description: 文章描述swiper_index: 1 #置顶轮播图顺序，非负整数，数字越大越靠前--- -->]]></content>
+        <content type="html"><![CDATA[<h1 id="js测试"><a href="#js测试" class="headerlink" title="js测试"></a>js测试</h1><div align=center class="aspect-ratio">    <iframe src="https://player.bilibili.com/player.html?aid=474023258&&page=1&as_wide=1&high_quality=1&danmaku=0"     scrolling="no"     border="0"     frameborder="no"     framespacing="0"     high_quality=1    danmaku=1     allowfullscreen="true">     </iframe></div><div class="twopeople">    <div class="container" style="height:200px;">        <canvas class="illo" width="800" height="800" style="max-width: 200px; max-height: 200px; touch-action: none; width: 640px; height: 640px;"></canvas>    </div>    <script src="https://cdn.jsdelivr.net/gh/Justlovesmile/CDN/js/twopeople1.js"></script>    <script src="https://cdn.jsdelivr.net/gh/Justlovesmile/CDN/js/zdog.dist.js"></script>    <script id="rendered-js" src="https://cdn.jsdelivr.net/gh/Justlovesmile/CDN/js/twopeople.js"></script>    <style>        .twopeople{            margin: 0;            align-items: center;            justify-content: center;            text-align: center;        }        canvas {            display: block;            margin: 0 auto;            cursor: move;        }    </style></div><!-- ---title: 文章标题date: 创建日期updated: 更新日期cover: 文章封面description: 文章描述swiper_index: 1 #置顶轮播图顺序，非负整数，数字越大越靠前--- -->]]></content>
       
+      
+      <categories>
+          
+          <category> test </category>
+          
+      </categories>
       
       
         <tags>
@@ -217,11 +229,11 @@
     
     
     <entry>
-      <title>Hello World</title>
+      <title>密码测试</title>
       <link href="/2016/03/30/%E5%8A%A0%E5%AF%86test/"/>
       <url>/2016/03/30/%E5%8A%A0%E5%AF%86test/</url>
       
-        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="18461dc3f990ccbaf72d2701591934f01f7b9c9ea0c1a106a969ea5651bba29b">165d50f05814027fb7fe5e4ae8a088d880ef3c20fdea2a6689466afb7e55cfd200e0db146c3f0cf184dfdb19aaa711cafb65030eb150da0805dbb1b874ef1f71fd66255c9da22bb11bb55e4e7e5843281f1e512b464b1a6ca742c528b6184e070b58c54db5eed5847660c9625587bab2c2411d049e6db19016653a7ac842050f124a55e71bb049917aff3590bd165babbc70a02778e4a4817629ce0b573dfddf8c8bb9a682c26cd23a2c100e81373389c5ea07776c03c9a40dfdd68bf49740e6b78b76babd4d3e228a7ba1e608679fa5909340988f0ea53c963dc4df49c60370a385ba72fde8555859689d7ba9010106fa19d054b1b41870c06927b8029e8a20</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">您好, 这里需要密码.</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="700e8f0875bc45708b123c13483d49f271b969462a40b26e3607c69ee6c02779">165d50f05814027fb7fe5e4ae8a088d8cabf1ea2d88ccf0f53dc7b0b289f33332b05d04b2081e7aa7c6e6e64e4939284d6b290d648944c32c2a8f3f32ed9b1e7bbcb871926606c7bc866ab012964eb3947355bc0aedc4e76d3d9b2c141708d15233c6a75cf3a5b37f6a9cdc0784f3abe103595db59781c3d480bf6ffccae7720cd2ceb27c2d2729809b34e1e94da60cf</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">您好, 这里需要密码.</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       
       
       
@@ -239,9 +251,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -250,9 +262,9 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -273,10 +285,10 @@
     
     <entry>
       <title></title>
-      <link href="/css/coin.css"/>
-      <url>/css/coin.css</url>
+      <link href="/css/cat.css"/>
+      <url>/css/cat.css</url>
       
-        <content type="html"><![CDATA[.tip-button {    border: 0;    border-radius: 0.25rem;    cursor: pointer;    font-size: 20px;    font-weight: 600;    height: 2.6rem;    margin-bottom: -4rem;    outline: 0;    position: relative;    top: 0;    transform-origin: 0% 100%;    transition: transform 50ms ease-in-out;    width: auto;    -webkit-tap-highlight-color: transparent;  }  .tip-button:active {    transform: rotate(4deg);  }  .tip-button.clicked {    animation: 150ms ease-in-out 1 shake;    pointer-events: none;  }  .tip-button.clicked .tip-button__text {    opacity: 0;    transition: opacity 100ms linear 200ms;  }  .tip-button.clicked::before {    height: 0.5rem;    width: 60%;    background: var(button-hover-color);  }  .tip-button.clicked .coin {    transition: margin-bottom 1s linear 200ms;    margin-bottom: 0;  }  .tip-button.shrink-landing::before {    transition: width 200ms ease-in;    width: 0;  }  .tip-button.coin-landed::after {    opacity: 1;    transform: scale(1);    transform-origin: 50% 100%;  }  .tip-button.coin-landed .coin-wrapper {    background: radial-gradient(circle at 35% 97%, rgba(3, 16, 50, 0.4) 0.04rem, transparent 0.04rem), radial-gradient(circle at 45% 92%, rgba(3, 16, 50, 0.4) 0.04rem, transparent 0.02rem), radial-gradient(circle at 55% 98%, rgba(3, 16, 50, 0.4) 0.04rem, transparent 0.04rem), radial-gradient(circle at 65% 96%, rgba(3, 16, 50, 0.4) 0.06rem, transparent 0.06rem);    background-position: center bottom;    background-size: 100%;    bottom: -1rem;    opacity: 0;    transform: scale(2) translateY(-10px);  }  .tip-button__text {    color: #fff;    margin-right: 1.8rem;    opacity: 1;    position: relative;    transition: opacity 100ms linear 500ms;    z-index: 3;  }  .tip-button::before {    border-radius: 0.25rem;    bottom: 0;    content: '';    display: block;    height: 100%;    left: 50%;    position: absolute;    transform: translateX(-50%);    transition: height 250ms ease-in-out 400ms, width 250ms ease-in-out 300ms;    width: 100%;    z-index: 2;  }  .tip-button::after {    bottom: -1rem;    color: white;    content: 'ヾ(≧O≦)〃嗷~'; /*点击后显示的内容*/    height: 110%;    left: 0;    opacity: 0;    position: absolute;    pointer-events: none;    text-align: center;    transform: scale(0);    transform-origin: 50% 20%;    transition: transform 200ms cubic-bezier(0, 0, 0.35, 1.43);    width: 100%;    z-index: 1;  }    .coin-wrapper {    background: none;    bottom: 0;    height: 18rem;    left: 0;    opacity: 1;    overflow: hidden;    pointer-events: none;    position: absolute;    transform: none;    transform-origin: 50% 100%;    transition: opacity 200ms linear 100ms, transform 300ms ease-out;    width: 100%;  }    .coin {    --front-y-multiplier: 0;    --back-y-multiplier: 0;    --coin-y-multiplier: 0;    --coin-x-multiplier: 0;    --coin-scale-multiplier: 0;    --coin-rotation-multiplier: 0;    --shine-opacity-multiplier: 0.4;    --shine-bg-multiplier: 50%;    bottom: calc(var(--coin-y-multiplier) * 1rem - 3.5rem);    height: 3.5rem;    margin-bottom: 3.05rem;    position: absolute;    right: calc(var(--coin-x-multiplier) * 34% + 16%);    transform: translateX(50%) scale(calc(0.4 + var(--coin-scale-multiplier))) rotate(calc(var(--coin-rotation-multiplier) * -1deg));    transition: opacity 100ms linear 200ms;    width: 3.5rem;    z-index: 3;  }  .coin__front, .coin__middle, .coin__back, .coin::before, .coin__front::after, .coin__back::after {    border-radius: 50%;    box-sizing: border-box;    height: 100%;    left: 0;    position: absolute;    width: 100%;    z-index: 3;  }  .coin__front {    background: radial-gradient(circle at 50% 50%, transparent 50%, rgba(115, 124, 153, 0.4) 54%, #c2cadf 54%), linear-gradient(210deg, #8590b3 32%, transparent 32%), linear-gradient(150deg, #8590b3 32%, transparent 32%), linear-gradient(to right, #8590b3 22%, transparent 22%, transparent 78%, #8590b3 78%), linear-gradient(to bottom, #fcfaf9 44%, transparent 44%, transparent 65%, #fcfaf9 65%, #fcfaf9 71%, #8590b3 71%), linear-gradient(to right, transparent 28%, #fcfaf9 28%, #fcfaf9 34%, #8590b3 34%, #8590b3 40%, #fcfaf9 40%, #fcfaf9 47%, #8590b3 47%, #8590b3 53%, #fcfaf9 53%, #fcfaf9 60%, #8590b3 60%, #8590b3 66%, #fcfaf9 66%, #fcfaf9 72%, transparent 72%);    background-color: #8590b3;    background-size: 100% 100%;    transform: translateY(calc(var(--front-y-multiplier) * 0.3181818182rem / 2)) scaleY(var(--front-scale-multiplier));  }  .coin__front::after {    background: rgba(0, 0, 0, 0.2);    content: '';    opacity: var(--front-y-multiplier);  }  .coin__middle {    background: #737c99;    transform: translateY(calc(var(--middle-y-multiplier) * 0.3181818182rem / 2)) scaleY(var(--middle-scale-multiplier));  }  .coin__back {    background: radial-gradient(circle at 50% 50%, transparent 50%, rgba(115, 124, 153, 0.4) 54%, #c2cadf 54%), radial-gradient(circle at 50% 40%, #fcfaf9 23%, transparent 23%), radial-gradient(circle at 50% 100%, #fcfaf9 35%, transparent 35%);    background-color: #8590b3;    background-size: 100% 100%;    transform: translateY(calc(var(--back-y-multiplier) * 0.3181818182rem / 2)) scaleY(var(--back-scale-multiplier));  }  .coin__back::after {    background: rgba(0, 0, 0, 0.2);    content: '';    opacity: var(--back-y-multiplier);  }  .coin::before {    background: radial-gradient(circle at 25% 65%, transparent 50%, rgba(255, 255, 255, 0.9) 90%), linear-gradient(55deg, transparent calc(var(--shine-bg-multiplier) + 0%), #e9f4ff calc(var(--shine-bg-multiplier) + 0%), transparent calc(var(--shine-bg-multiplier) + 50%));    content: '';    opacity: var(--shine-opacity-multiplier);    transform: translateY(calc(var(--middle-y-multiplier) * 0.3181818182rem / -2)) scaleY(var(--middle-scale-multiplier)) rotate(calc(var(--coin-rotation-multiplier) * 1deg));    z-index: 10;  }  .coin::after {    background: #737c99;    content: '';    height: 0.3181818182rem;    left: 0;    position: absolute;    top: 50%;    transform: translateY(-50%);    width: 100%;    z-index: 2;  }    @keyframes shake {    0% {      transform: rotate(4deg);    }    66% {      transform: rotate(-4deg);    }    100% {      transform: rotate();    }  }]]></content>
+        <content type="html"><![CDATA[body::-webkit-scrollbar {    width: 0;}.neko {    width: 64px;    height: 64px;    background-image: url("https://bu.dusays.com/2022/07/20/62d812db74be9.png");    position: absolute;    right: 32px;    background-repeat: no-repeat;    background-size: contain;    transform: translateX(50%);    cursor: pointer;    font-family: tzy;    font-weight: 600;    font-size: 16px;    color: #6f42c1;    display: none;}.neko::after {    display: none;    width: 100px;    height: 100px;    background-image: url("https://bu.dusays.com/2022/07/20/62d812d95e6f5.png");    background-size: contain;    z-index: 9999;    position: absolute;    right: 50%;    text-align: center;    line-height: 100px;    top: -115%;}.neko.showMsg::after {    content: attr(data-msg);    display: block;    overflow: hidden;    text-overflow: ellipsis;}.neko:hover::after {    content: attr(data-msg);    display: block;    overflow: hidden;    text-overflow: ellipsis;}.neko.fontColor::after {    color: #333;}/** * @description: 滚动条样式  跟猫二选一 */@media screen and (max-width:992px) {    ::-webkit-scrollbar {        width: 8px !important;        height: 8px !important    }    ::-webkit-scrollbar-track {        border-radius: 2em;    }    ::-webkit-scrollbar-thumb {        background-color: rgb(255 255 255 / .3);        background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.1) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, transparent 75%, transparent);        border-radius: 2em    }    ::-webkit-scrollbar-corner {        background-color: transparent    }}]]></content>
       
     </entry>
     
@@ -284,10 +296,10 @@
     
     <entry>
       <title></title>
-      <link href="/css/cat.css"/>
-      <url>/css/cat.css</url>
+      <link href="/css/coin.css"/>
+      <url>/css/coin.css</url>
       
-        <content type="html"><![CDATA[body::-webkit-scrollbar {    width: 0;}.neko {    width: 64px;    height: 64px;    background-image: url("https://bu.dusays.com/2022/07/20/62d812db74be9.png");    position: absolute;    right: 32px;    background-repeat: no-repeat;    background-size: contain;    transform: translateX(50%);    cursor: pointer;    font-family: tzy;    font-weight: 600;    font-size: 16px;    color: #6f42c1;    display: none;}.neko::after {    display: none;    width: 100px;    height: 100px;    background-image: url("https://bu.dusays.com/2022/07/20/62d812d95e6f5.png");    background-size: contain;    z-index: 9999;    position: absolute;    right: 50%;    text-align: center;    line-height: 100px;    top: -115%;}.neko.showMsg::after {    content: attr(data-msg);    display: block;    overflow: hidden;    text-overflow: ellipsis;}.neko:hover::after {    content: attr(data-msg);    display: block;    overflow: hidden;    text-overflow: ellipsis;}.neko.fontColor::after {    color: #333;}/** * @description: 滚动条样式  跟猫二选一 */@media screen and (max-width:992px) {    ::-webkit-scrollbar {        width: 8px !important;        height: 8px !important    }    ::-webkit-scrollbar-track {        border-radius: 2em;    }    ::-webkit-scrollbar-thumb {        background-color: rgb(255 255 255 / .3);        background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.1) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, transparent 75%, transparent);        border-radius: 2em    }    ::-webkit-scrollbar-corner {        background-color: transparent    }}]]></content>
+        <content type="html"><![CDATA[.tip-button {    border: 0;    border-radius: 0.25rem;    cursor: pointer;    font-size: 20px;    font-weight: 600;    height: 2.6rem;    margin-bottom: -4rem;    outline: 0;    position: relative;    top: 0;    transform-origin: 0% 100%;    transition: transform 50ms ease-in-out;    width: auto;    -webkit-tap-highlight-color: transparent;  }  .tip-button:active {    transform: rotate(4deg);  }  .tip-button.clicked {    animation: 150ms ease-in-out 1 shake;    pointer-events: none;  }  .tip-button.clicked .tip-button__text {    opacity: 0;    transition: opacity 100ms linear 200ms;  }  .tip-button.clicked::before {    height: 0.5rem;    width: 60%;    background: var(button-hover-color);  }  .tip-button.clicked .coin {    transition: margin-bottom 1s linear 200ms;    margin-bottom: 0;  }  .tip-button.shrink-landing::before {    transition: width 200ms ease-in;    width: 0;  }  .tip-button.coin-landed::after {    opacity: 1;    transform: scale(1);    transform-origin: 50% 100%;  }  .tip-button.coin-landed .coin-wrapper {    background: radial-gradient(circle at 35% 97%, rgba(3, 16, 50, 0.4) 0.04rem, transparent 0.04rem), radial-gradient(circle at 45% 92%, rgba(3, 16, 50, 0.4) 0.04rem, transparent 0.02rem), radial-gradient(circle at 55% 98%, rgba(3, 16, 50, 0.4) 0.04rem, transparent 0.04rem), radial-gradient(circle at 65% 96%, rgba(3, 16, 50, 0.4) 0.06rem, transparent 0.06rem);    background-position: center bottom;    background-size: 100%;    bottom: -1rem;    opacity: 0;    transform: scale(2) translateY(-10px);  }  .tip-button__text {    color: #fff;    margin-right: 1.8rem;    opacity: 1;    position: relative;    transition: opacity 100ms linear 500ms;    z-index: 3;  }  .tip-button::before {    border-radius: 0.25rem;    bottom: 0;    content: '';    display: block;    height: 100%;    left: 50%;    position: absolute;    transform: translateX(-50%);    transition: height 250ms ease-in-out 400ms, width 250ms ease-in-out 300ms;    width: 100%;    z-index: 2;  }  .tip-button::after {    bottom: -1rem;    color: white;    content: 'ヾ(≧O≦)〃嗷~'; /*点击后显示的内容*/    height: 110%;    left: 0;    opacity: 0;    position: absolute;    pointer-events: none;    text-align: center;    transform: scale(0);    transform-origin: 50% 20%;    transition: transform 200ms cubic-bezier(0, 0, 0.35, 1.43);    width: 100%;    z-index: 1;  }    .coin-wrapper {    background: none;    bottom: 0;    height: 18rem;    left: 0;    opacity: 1;    overflow: hidden;    pointer-events: none;    position: absolute;    transform: none;    transform-origin: 50% 100%;    transition: opacity 200ms linear 100ms, transform 300ms ease-out;    width: 100%;  }    .coin {    --front-y-multiplier: 0;    --back-y-multiplier: 0;    --coin-y-multiplier: 0;    --coin-x-multiplier: 0;    --coin-scale-multiplier: 0;    --coin-rotation-multiplier: 0;    --shine-opacity-multiplier: 0.4;    --shine-bg-multiplier: 50%;    bottom: calc(var(--coin-y-multiplier) * 1rem - 3.5rem);    height: 3.5rem;    margin-bottom: 3.05rem;    position: absolute;    right: calc(var(--coin-x-multiplier) * 34% + 16%);    transform: translateX(50%) scale(calc(0.4 + var(--coin-scale-multiplier))) rotate(calc(var(--coin-rotation-multiplier) * -1deg));    transition: opacity 100ms linear 200ms;    width: 3.5rem;    z-index: 3;  }  .coin__front, .coin__middle, .coin__back, .coin::before, .coin__front::after, .coin__back::after {    border-radius: 50%;    box-sizing: border-box;    height: 100%;    left: 0;    position: absolute;    width: 100%;    z-index: 3;  }  .coin__front {    background: radial-gradient(circle at 50% 50%, transparent 50%, rgba(115, 124, 153, 0.4) 54%, #c2cadf 54%), linear-gradient(210deg, #8590b3 32%, transparent 32%), linear-gradient(150deg, #8590b3 32%, transparent 32%), linear-gradient(to right, #8590b3 22%, transparent 22%, transparent 78%, #8590b3 78%), linear-gradient(to bottom, #fcfaf9 44%, transparent 44%, transparent 65%, #fcfaf9 65%, #fcfaf9 71%, #8590b3 71%), linear-gradient(to right, transparent 28%, #fcfaf9 28%, #fcfaf9 34%, #8590b3 34%, #8590b3 40%, #fcfaf9 40%, #fcfaf9 47%, #8590b3 47%, #8590b3 53%, #fcfaf9 53%, #fcfaf9 60%, #8590b3 60%, #8590b3 66%, #fcfaf9 66%, #fcfaf9 72%, transparent 72%);    background-color: #8590b3;    background-size: 100% 100%;    transform: translateY(calc(var(--front-y-multiplier) * 0.3181818182rem / 2)) scaleY(var(--front-scale-multiplier));  }  .coin__front::after {    background: rgba(0, 0, 0, 0.2);    content: '';    opacity: var(--front-y-multiplier);  }  .coin__middle {    background: #737c99;    transform: translateY(calc(var(--middle-y-multiplier) * 0.3181818182rem / 2)) scaleY(var(--middle-scale-multiplier));  }  .coin__back {    background: radial-gradient(circle at 50% 50%, transparent 50%, rgba(115, 124, 153, 0.4) 54%, #c2cadf 54%), radial-gradient(circle at 50% 40%, #fcfaf9 23%, transparent 23%), radial-gradient(circle at 50% 100%, #fcfaf9 35%, transparent 35%);    background-color: #8590b3;    background-size: 100% 100%;    transform: translateY(calc(var(--back-y-multiplier) * 0.3181818182rem / 2)) scaleY(var(--back-scale-multiplier));  }  .coin__back::after {    background: rgba(0, 0, 0, 0.2);    content: '';    opacity: var(--back-y-multiplier);  }  .coin::before {    background: radial-gradient(circle at 25% 65%, transparent 50%, rgba(255, 255, 255, 0.9) 90%), linear-gradient(55deg, transparent calc(var(--shine-bg-multiplier) + 0%), #e9f4ff calc(var(--shine-bg-multiplier) + 0%), transparent calc(var(--shine-bg-multiplier) + 50%));    content: '';    opacity: var(--shine-opacity-multiplier);    transform: translateY(calc(var(--middle-y-multiplier) * 0.3181818182rem / -2)) scaleY(var(--middle-scale-multiplier)) rotate(calc(var(--coin-rotation-multiplier) * 1deg));    z-index: 10;  }  .coin::after {    background: #737c99;    content: '';    height: 0.3181818182rem;    left: 0;    position: absolute;    top: 50%;    transform: translateY(-50%);    width: 100%;    z-index: 2;  }    @keyframes shake {    0% {      transform: rotate(4deg);    }    66% {      transform: rotate(-4deg);    }    100% {      transform: rotate();    }  }]]></content>
       
     </entry>
     
@@ -350,6 +362,17 @@
     
     <entry>
       <title></title>
+      <link href="/js/coin.js"/>
+      <url>/js/coin.js</url>
+      
+        <content type="html"><![CDATA[var tipButtons = document.querySelectorAll('.tip-button')function coinAudio() {    var coinAudio = document.getElementById("coinAudio");    if (coinAudio) {        coinAudio.play();//有音频时播放    }}// Loop through all buttons (allows for multiple buttons on page)tipButtons.forEach((button) => {    var coin = button.querySelector('.coin')    // The larger the number, the slower the animation    coin.maxMoveLoopCount = 90    button.addEventListener('click', () => {        if (/Android|webOS|BlackBerry/i.test(navigator.userAgent)) return true; //媒体选择        if (button.clicked) return        button.classList.add('clicked')        // Wait to start flipping th coin because of the button tilt animation        setTimeout(() => {            // Randomize the flipping speeds just for fun            coin.sideRotationCount = Math.floor(Math.random() * 5) * 90            coin.maxFlipAngle = (Math.floor(Math.random() * 4) + 3) * Math.PI            button.clicked = true            flipCoin()            coinAudio()        }, 50)    })    var flipCoin = () => {        coin.moveLoopCount = 0        flipCoinLoop()    }    var resetCoin = () => {        coin.style.setProperty('--coin-x-multiplier', 0)        coin.style.setProperty('--coin-scale-multiplier', 0)        coin.style.setProperty('--coin-rotation-multiplier', 0)        coin.style.setProperty('--shine-opacity-multiplier', 0.4)        coin.style.setProperty('--shine-bg-multiplier', '50%')        coin.style.setProperty('opacity', 1)        // Delay to give the reset animation some time before you can click again        setTimeout(() => {            button.clicked = false        }, 300)    }    var flipCoinLoop = () => {        coin.moveLoopCount++        var percentageCompleted = coin.moveLoopCount / coin.maxMoveLoopCount        coin.angle = -coin.maxFlipAngle * Math.pow((percentageCompleted - 1), 2) + coin.maxFlipAngle        // Calculate the scale and position of the coin moving through the air        coin.style.setProperty('--coin-y-multiplier', -11 * Math.pow(percentageCompleted * 2 - 1, 4) + 11)        coin.style.setProperty('--coin-x-multiplier', percentageCompleted)        coin.style.setProperty('--coin-scale-multiplier', percentageCompleted * 0.6)        coin.style.setProperty('--coin-rotation-multiplier', percentageCompleted * coin.sideRotationCount)        // Calculate the scale and position values for the different coin faces        // The math uses sin/cos wave functions to similate the circular motion of 3D spin        coin.style.setProperty('--front-scale-multiplier', Math.max(Math.cos(coin.angle), 0))        coin.style.setProperty('--front-y-multiplier', Math.sin(coin.angle))        coin.style.setProperty('--middle-scale-multiplier', Math.abs(Math.cos(coin.angle), 0))        coin.style.setProperty('--middle-y-multiplier', Math.cos((coin.angle + Math.PI / 2) % Math.PI))        coin.style.setProperty('--back-scale-multiplier', Math.max(Math.cos(coin.angle - Math.PI), 0))        coin.style.setProperty('--back-y-multiplier', Math.sin(coin.angle - Math.PI))        coin.style.setProperty('--shine-opacity-multiplier', 4 * Math.sin((coin.angle + Math.PI / 2) % Math.PI) - 3.2)        coin.style.setProperty('--shine-bg-multiplier', -40 * (Math.cos((coin.angle + Math.PI / 2) % Math.PI) - 0.5) + '%')        // Repeat animation loop        if (coin.moveLoopCount < coin.maxMoveLoopCount) {            if (coin.moveLoopCount === coin.maxMoveLoopCount - 6) button.classList.add('shrink-landing')            window.requestAnimationFrame(flipCoinLoop)        } else {            button.classList.add('coin-landed')            coin.style.setProperty('opacity', 0)            setTimeout(() => {                button.classList.remove('clicked', 'shrink-landing', 'coin-landed')                setTimeout(() => {                    resetCoin()                }, 300)            }, 1500)        }    }})]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/js/cat.js"/>
       <url>/js/cat.js</url>
       
@@ -372,32 +395,10 @@
     
     <entry>
       <title></title>
-      <link href="/js/coin.js"/>
-      <url>/js/coin.js</url>
-      
-        <content type="html"><![CDATA[var tipButtons = document.querySelectorAll('.tip-button')function coinAudio() {    var coinAudio = document.getElementById("coinAudio");    if (coinAudio) {        coinAudio.play();//有音频时播放    }}// Loop through all buttons (allows for multiple buttons on page)tipButtons.forEach((button) => {    var coin = button.querySelector('.coin')    // The larger the number, the slower the animation    coin.maxMoveLoopCount = 90    button.addEventListener('click', () => {        if (/Android|webOS|BlackBerry/i.test(navigator.userAgent)) return true; //媒体选择        if (button.clicked) return        button.classList.add('clicked')        // Wait to start flipping th coin because of the button tilt animation        setTimeout(() => {            // Randomize the flipping speeds just for fun            coin.sideRotationCount = Math.floor(Math.random() * 5) * 90            coin.maxFlipAngle = (Math.floor(Math.random() * 4) + 3) * Math.PI            button.clicked = true            flipCoin()            coinAudio()        }, 50)    })    var flipCoin = () => {        coin.moveLoopCount = 0        flipCoinLoop()    }    var resetCoin = () => {        coin.style.setProperty('--coin-x-multiplier', 0)        coin.style.setProperty('--coin-scale-multiplier', 0)        coin.style.setProperty('--coin-rotation-multiplier', 0)        coin.style.setProperty('--shine-opacity-multiplier', 0.4)        coin.style.setProperty('--shine-bg-multiplier', '50%')        coin.style.setProperty('opacity', 1)        // Delay to give the reset animation some time before you can click again        setTimeout(() => {            button.clicked = false        }, 300)    }    var flipCoinLoop = () => {        coin.moveLoopCount++        var percentageCompleted = coin.moveLoopCount / coin.maxMoveLoopCount        coin.angle = -coin.maxFlipAngle * Math.pow((percentageCompleted - 1), 2) + coin.maxFlipAngle        // Calculate the scale and position of the coin moving through the air        coin.style.setProperty('--coin-y-multiplier', -11 * Math.pow(percentageCompleted * 2 - 1, 4) + 11)        coin.style.setProperty('--coin-x-multiplier', percentageCompleted)        coin.style.setProperty('--coin-scale-multiplier', percentageCompleted * 0.6)        coin.style.setProperty('--coin-rotation-multiplier', percentageCompleted * coin.sideRotationCount)        // Calculate the scale and position values for the different coin faces        // The math uses sin/cos wave functions to similate the circular motion of 3D spin        coin.style.setProperty('--front-scale-multiplier', Math.max(Math.cos(coin.angle), 0))        coin.style.setProperty('--front-y-multiplier', Math.sin(coin.angle))        coin.style.setProperty('--middle-scale-multiplier', Math.abs(Math.cos(coin.angle), 0))        coin.style.setProperty('--middle-y-multiplier', Math.cos((coin.angle + Math.PI / 2) % Math.PI))        coin.style.setProperty('--back-scale-multiplier', Math.max(Math.cos(coin.angle - Math.PI), 0))        coin.style.setProperty('--back-y-multiplier', Math.sin(coin.angle - Math.PI))        coin.style.setProperty('--shine-opacity-multiplier', 4 * Math.sin((coin.angle + Math.PI / 2) % Math.PI) - 3.2)        coin.style.setProperty('--shine-bg-multiplier', -40 * (Math.cos((coin.angle + Math.PI / 2) % Math.PI) - 0.5) + '%')        // Repeat animation loop        if (coin.moveLoopCount < coin.maxMoveLoopCount) {            if (coin.moveLoopCount === coin.maxMoveLoopCount - 6) button.classList.add('shrink-landing')            window.requestAnimationFrame(flipCoinLoop)        } else {            button.classList.add('coin-landed')            coin.style.setProperty('opacity', 0)            setTimeout(() => {                button.classList.remove('clicked', 'shrink-landing', 'coin-landed')                setTimeout(() => {                    resetCoin()                }, 300)            }, 1500)        }    }})]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/js/randdom.js"/>
       <url>/js/randdom.js</url>
       
         <content type="html"><![CDATA[// 发现有时会和当前页面重复，加一个判断function randomPost() {    fetch('/baidusitemap.xml').then(res => res.text()).then(str => (new window.DOMParser()).parseFromString(str, "text/xml")).then(data => {        let ls = data.querySelectorAll('url loc');        while (true) {            let url = ls[Math.floor(Math.random() * ls.length)].innerHTML;            if (location.href == url) continue;            location.href = url;            return;        }    })}// 阅读文章时看了一遍写的代码，发现加个数组和一个遍历完全没必要，改成下面这个即可。// function randomPost() {//     fetch('/baidusitemap.xml').then(res => res.text()).then(str => (new window.DOMParser()).parseFromString(str, "text/xml")).then(data => {//         let ls = data.querySelectorAll('url loc');//         location.href = ls[Math.floor(Math.random() * ls.length)].innerHTML//     })// }// 旧代码// function randomPost() {    // fetch('/baidusitemap.xml').then(res => res.text()).then(str => (new window.DOMParser()).parseFromString(str, "text/xml")).then(data => {    //     let ls = data.querySelectorAll('url loc');    //     let list = [];    //     ls.forEach(i => list.push(i.innerHTML))    //     location.href = list[Math.floor(Math.random() * ls.length)]    // })// }]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/readPercent.js"/>
-      <url>/js/readPercent.js</url>
-      
-        <content type="html"><![CDATA[window.onscroll = percent;// 执行函数// 页面百分比function percent() {    let a = document.documentElement.scrollTop || window.pageYOffset, // 卷去高度        b = Math.max(document.body.scrollHeight, document.documentElement.scrollHeight, document.body.offsetHeight, document.documentElement.offsetHeight, document.body.clientHeight, document.documentElement.clientHeight) - document.documentElement.clientHeight, // 整个网页高度        result = Math.round(a / b * 100), // 计算百分比        up = document.querySelector("#go-up") // 获取按钮    if (result <= 95) {        up.childNodes[0].style.display = 'none'        up.childNodes[1].style.display = 'block'        up.childNodes[1].innerHTML = result;    } else {        up.childNodes[1].style.display = 'none'        up.childNodes[0].style.display = 'block'    }}]]></content>
       
     </entry>
     
@@ -416,10 +417,10 @@
     
     <entry>
       <title></title>
-      <link href="/js/runtime.min.js"/>
-      <url>/js/runtime.min.js</url>
+      <link href="/js/readPercent.js"/>
+      <url>/js/readPercent.js</url>
       
-        <content type="html"><![CDATA[var now = new Date();function createtime() {  var t = new Date("04/01/2021 00:00:00");  now.setTime(now.getTime() + 250);  var e = (now - t) / 1e3 / 60 / 60 / 24,    a = Math.floor(e),    n = (now - t) / 1e3 / 60 / 60 - 24 * a,    r = Math.floor(n);  1 == String(r).length && (r = "0" + r);  var s = (now - t) / 1e3 / 60 - 1440 * a - 60 * r,    i = Math.floor(s);  1 == String(i).length && (i = "0" + i);  var o = (now - t) / 1e3 - 86400 * a - 3600 * r - 60 * i,    l = Math.round(o);  1 == String(l).length && (l = "0" + l);  let g = "";  (g =    r < 18 && r >= 9      ? `<img class='boardsign' src='https://npm.elemecdn.com/anzhiyu-blog@2.0.3/img/badge/安知鱼-上班摸鱼中.svg' title='距离月入25k也就还差一个大佬带我~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`      : `<img class='boardsign' src='https://npm.elemecdn.com/anzhiyu-blog@2.0.3/img/badge/安知鱼-下班啦.svg' title='下班了就该开开心心的玩耍，嘿嘿~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`),    document.getElementById("workboard") &&      (document.getElementById("workboard").innerHTML = g);}setInterval(() => {  createtime();}, 250);]]></content>
+        <content type="html"><![CDATA[window.onscroll = percent;// 执行函数// 页面百分比function percent() {    let a = document.documentElement.scrollTop || window.pageYOffset, // 卷去高度        b = Math.max(document.body.scrollHeight, document.documentElement.scrollHeight, document.body.offsetHeight, document.documentElement.offsetHeight, document.body.clientHeight, document.documentElement.clientHeight) - document.documentElement.clientHeight, // 整个网页高度        result = Math.round(a / b * 100), // 计算百分比        up = document.querySelector("#go-up") // 获取按钮    if (result <= 95) {        up.childNodes[0].style.display = 'none'        up.childNodes[1].style.display = 'block'        up.childNodes[1].innerHTML = result;    } else {        up.childNodes[1].style.display = 'none'        up.childNodes[0].style.display = 'block'    }}]]></content>
       
     </entry>
     
@@ -438,10 +439,10 @@
     
     <entry>
       <title></title>
-      <link href="/js/snow.js"/>
-      <url>/js/snow.js</url>
+      <link href="/js/runtime.min.js"/>
+      <url>/js/runtime.min.js</url>
       
-        <content type="html"><![CDATA[if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {    // 移动端不显示} else {    // document.write('<canvas id="snow" style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:-2;pointer-events:none"></canvas>');    window && (() => {        let e = {            flakeCount: 50, // 雪花数目            minDist: 150,   // 最小距离            color: "255, 255, 255", // 雪花颜色            size: 1.5,  // 雪花大小            speed: .5,  // 雪花速度            opacity: .7,    // 雪花透明度            stepsize: .5    // 步距        };        const t = window.requestAnimationFrame || window.mozRequestAnimationFrame || window.webkitRequestAnimationFrame || window.msRequestAnimationFrame || function (e) {            window.setTimeout(e, 1e3 / 60)        }            ;        window.requestAnimationFrame = t;        const i = document.getElementById("snow"),            n = i.getContext("2d"),            o = e.flakeCount;        let a = -100,            d = -100,            s = [];        i.width = window.innerWidth,            i.height = window.innerHeight;        const h = () => {            n.clearRect(0, 0, i.width, i.height);            const r = e.minDist;            for (let t = 0; t < o; t++) {                let o = s[t];                const h = a,                    w = d,                    m = o.x,                    c = o.y,                    p = Math.sqrt((h - m) * (h - m) + (w - c) * (w - c));                if (p < r) {                    const e = (h - m) / p,                        t = (w - c) / p,                        i = r / (p * p) / 2;                    o.velX -= i * e,                        o.velY -= i * t                } else                    o.velX *= .98,                        o.velY < o.speed && o.speed - o.velY > .01 && (o.velY += .01 * (o.speed - o.velY)),                        o.velX += Math.cos(o.step += .05) * o.stepSize;                n.fillStyle = "rgba(" + e.color + ", " + o.opacity + ")",                    o.y += o.velY,                    o.x += o.velX,                    (o.y >= i.height || o.y <= 0) && l(o),                    (o.x >= i.width || o.x <= 0) && l(o),                    n.beginPath(),                    n.arc(o.x, o.y, o.size, 0, 2 * Math.PI),                    n.fill()            }            t(h)        }            , l = e => {                e.x = Math.floor(Math.random() * i.width),                    e.y = 0,                    e.size = 3 * Math.random() + 2,                    e.speed = 1 * Math.random() + .5,                    e.velY = e.speed,                    e.velX = 0,                    e.opacity = .5 * Math.random() + .3            }            ;        document.addEventListener("mousemove", (e => {            a = e.clientX,                d = e.clientY        }        )),            window.addEventListener("resize", (() => {                i.width = window.innerWidth,                    i.height = window.innerHeight            }            )),            (() => {                for (let t = 0; t < o; t++) {                    const t = Math.floor(Math.random() * i.width)                        , n = Math.floor(Math.random() * i.height)                        , o = 3 * Math.random() + e.size                        , a = 1 * Math.random() + e.speed                        , d = .5 * Math.random() + e.opacity;                    s.push({                        speed: a,                        velX: 0,                        velY: a,                        x: t,                        y: n,                        size: o,                        stepSize: Math.random() / 30 * e.stepsize,                        step: 0,                        angle: 180,                        opacity: d                    })                }                h()            }            )()    }    )();}]]></content>
+        <content type="html"><![CDATA[var now = new Date();function createtime() {  var t = new Date("04/01/2021 00:00:00");  now.setTime(now.getTime() + 250);  var e = (now - t) / 1e3 / 60 / 60 / 24,    a = Math.floor(e),    n = (now - t) / 1e3 / 60 / 60 - 24 * a,    r = Math.floor(n);  1 == String(r).length && (r = "0" + r);  var s = (now - t) / 1e3 / 60 - 1440 * a - 60 * r,    i = Math.floor(s);  1 == String(i).length && (i = "0" + i);  var o = (now - t) / 1e3 - 86400 * a - 3600 * r - 60 * i,    l = Math.round(o);  1 == String(l).length && (l = "0" + l);  let g = "";  (g =    r < 18 && r >= 9      ? `<img class='boardsign' src='https://npm.elemecdn.com/anzhiyu-blog@2.0.3/img/badge/安知鱼-上班摸鱼中.svg' title='距离月入25k也就还差一个大佬带我~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`      : `<img class='boardsign' src='https://npm.elemecdn.com/anzhiyu-blog@2.0.3/img/badge/安知鱼-下班啦.svg' title='下班了就该开开心心的玩耍，嘿嘿~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`),    document.getElementById("workboard") &&      (document.getElementById("workboard").innerHTML = g);}setInterval(() => {  createtime();}, 250);]]></content>
       
     </entry>
     
@@ -449,10 +450,10 @@
     
     <entry>
       <title></title>
-      <link href="/js/sun_moon.js"/>
-      <url>/js/sun_moon.js</url>
+      <link href="/js/snow.js"/>
+      <url>/js/snow.js</url>
       
-        <content type="html"><![CDATA[function switchNightMode() {    document.querySelector('body').insertAdjacentHTML('beforeend', '<div class="Cuteen_DarkSky"><div class="Cuteen_DarkPlanet"></div></div>'),      setTimeout(function() {        document.querySelector('body').classList.contains('DarkMode') ? (document.querySelector('body').classList.remove('DarkMode'), localStorage.setItem('isDark', '0'), document.getElementById('modeicon').setAttribute('xlink:href', '#icon-moon')) : (document.querySelector('body').classList.add('DarkMode'), localStorage.setItem('isDark', '1'), document.getElementById('modeicon').setAttribute('xlink:href', '#icon-sun')),          setTimeout(function() {            document.getElementsByClassName('Cuteen_DarkSky')[0].style.transition = 'opacity 3s';            document.getElementsByClassName('Cuteen_DarkSky')[0].style.opacity = '0';            setTimeout(function() {              document.getElementsByClassName('Cuteen_DarkSky')[0].remove();            }, 1e3);          }, 2e3)      })    const nowMode = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light'    if (nowMode === 'light') {      btf.activateDarkMode()      saveToLocal.set('theme', 'dark', 2)      GLOBAL_CONFIG.Snackbar !== undefined && btf.snackbarShow(GLOBAL_CONFIG.Snackbar.day_to_night)      document.getElementById('modeicon').setAttribute('xlink:href', '#icon-sun')    } else {      btf.activateLightMode()      saveToLocal.set('theme', 'light', 2)      document.querySelector('body').classList.add('DarkMode'), document.getElementById('modeicon').setAttribute('xlink:href', '#icon-moon')    }    // handle some cases    typeof utterancesTheme === 'function' && utterancesTheme()    typeof FB === 'object' && window.loadFBComment()    window.DISQUS && document.getElementById('disqus_thread').children.length && setTimeout(() => window.disqusReset(), 200)  }]]></content>
+        <content type="html"><![CDATA[if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {    // 移动端不显示} else {    // document.write('<canvas id="snow" style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:-2;pointer-events:none"></canvas>');    window && (() => {        let e = {            flakeCount: 50, // 雪花数目            minDist: 150,   // 最小距离            color: "255, 255, 255", // 雪花颜色            size: 1.5,  // 雪花大小            speed: .5,  // 雪花速度            opacity: .7,    // 雪花透明度            stepsize: .5    // 步距        };        const t = window.requestAnimationFrame || window.mozRequestAnimationFrame || window.webkitRequestAnimationFrame || window.msRequestAnimationFrame || function (e) {            window.setTimeout(e, 1e3 / 60)        }            ;        window.requestAnimationFrame = t;        const i = document.getElementById("snow"),            n = i.getContext("2d"),            o = e.flakeCount;        let a = -100,            d = -100,            s = [];        i.width = window.innerWidth,            i.height = window.innerHeight;        const h = () => {            n.clearRect(0, 0, i.width, i.height);            const r = e.minDist;            for (let t = 0; t < o; t++) {                let o = s[t];                const h = a,                    w = d,                    m = o.x,                    c = o.y,                    p = Math.sqrt((h - m) * (h - m) + (w - c) * (w - c));                if (p < r) {                    const e = (h - m) / p,                        t = (w - c) / p,                        i = r / (p * p) / 2;                    o.velX -= i * e,                        o.velY -= i * t                } else                    o.velX *= .98,                        o.velY < o.speed && o.speed - o.velY > .01 && (o.velY += .01 * (o.speed - o.velY)),                        o.velX += Math.cos(o.step += .05) * o.stepSize;                n.fillStyle = "rgba(" + e.color + ", " + o.opacity + ")",                    o.y += o.velY,                    o.x += o.velX,                    (o.y >= i.height || o.y <= 0) && l(o),                    (o.x >= i.width || o.x <= 0) && l(o),                    n.beginPath(),                    n.arc(o.x, o.y, o.size, 0, 2 * Math.PI),                    n.fill()            }            t(h)        }            , l = e => {                e.x = Math.floor(Math.random() * i.width),                    e.y = 0,                    e.size = 3 * Math.random() + 2,                    e.speed = 1 * Math.random() + .5,                    e.velY = e.speed,                    e.velX = 0,                    e.opacity = .5 * Math.random() + .3            }            ;        document.addEventListener("mousemove", (e => {            a = e.clientX,                d = e.clientY        }        )),            window.addEventListener("resize", (() => {                i.width = window.innerWidth,                    i.height = window.innerHeight            }            )),            (() => {                for (let t = 0; t < o; t++) {                    const t = Math.floor(Math.random() * i.width)                        , n = Math.floor(Math.random() * i.height)                        , o = 3 * Math.random() + e.size                        , a = 1 * Math.random() + e.speed                        , d = .5 * Math.random() + e.opacity;                    s.push({                        speed: a,                        velX: 0,                        velY: a,                        x: t,                        y: n,                        size: o,                        stepSize: Math.random() / 30 * e.stepsize,                        step: 0,                        angle: 180,                        opacity: d                    })                }                h()            }            )()    }    )();}]]></content>
       
     </entry>
     
@@ -470,9 +471,31 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title></title>
+      <link href="/js/sun_moon.js"/>
+      <url>/js/sun_moon.js</url>
+      
+        <content type="html"><![CDATA[function switchNightMode() {    document.querySelector('body').insertAdjacentHTML('beforeend', '<div class="Cuteen_DarkSky"><div class="Cuteen_DarkPlanet"></div></div>'),      setTimeout(function() {        document.querySelector('body').classList.contains('DarkMode') ? (document.querySelector('body').classList.remove('DarkMode'), localStorage.setItem('isDark', '0'), document.getElementById('modeicon').setAttribute('xlink:href', '#icon-moon')) : (document.querySelector('body').classList.add('DarkMode'), localStorage.setItem('isDark', '1'), document.getElementById('modeicon').setAttribute('xlink:href', '#icon-sun')),          setTimeout(function() {            document.getElementsByClassName('Cuteen_DarkSky')[0].style.transition = 'opacity 3s';            document.getElementsByClassName('Cuteen_DarkSky')[0].style.opacity = '0';            setTimeout(function() {              document.getElementsByClassName('Cuteen_DarkSky')[0].remove();            }, 1e3);          }, 2e3)      })    const nowMode = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light'    if (nowMode === 'light') {      btf.activateDarkMode()      saveToLocal.set('theme', 'dark', 2)      GLOBAL_CONFIG.Snackbar !== undefined && btf.snackbarShow(GLOBAL_CONFIG.Snackbar.day_to_night)      document.getElementById('modeicon').setAttribute('xlink:href', '#icon-sun')    } else {      btf.activateLightMode()      saveToLocal.set('theme', 'light', 2)      document.querySelector('body').classList.add('DarkMode'), document.getElementById('modeicon').setAttribute('xlink:href', '#icon-moon')    }    // handle some cases    typeof utterancesTheme === 'function' && utterancesTheme()    typeof FB === 'object' && window.loadFBComment()    window.DISQUS && document.getElementById('disqus_thread').children.length && setTimeout(() => window.disqusReset(), 200)  }]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -492,9 +515,9 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -506,17 +529,6 @@
       <title>tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
